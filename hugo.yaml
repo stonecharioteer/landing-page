@@ -1,0 +1,29 @@
+baseURL: 'https://www.stonecharioteer.com/'
+languageCode: 'en-us'
+title: "Stonecharioteer"
+theme: 'PaperMod'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "Vinay Keerthi (stonecharioteer)" # optional default will be site title
+    subtitle: "A life of programming, writing and pet-parenting"
+    imageUrl: "/logo.jpeg" # optional
+    imageTitle: "Stonecharioteer Logo" # optional
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
+    buttons:
+      - name: Resume
+        url: "https://github.com/stonecharioteer/archive/releases"
+      - name: Tech Blog
+        url: "https://tech.stonecharioteer.com"
+      - name: Writing
+        url: "https://writing.stonecharioteer.com/"
+      - name: Archive
+        url: "https://old.stonecharioteer.com/"

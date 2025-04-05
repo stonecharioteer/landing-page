@@ -27,3 +27,11 @@ params:
         url: "https://writing.stonecharioteer.com/"
       - name: Archive
         url: "https://old.stonecharioteer.com/"
+menus:
+  main:
+  - name: Nope
+    pageRef: /nope
+    weight: 10
+  - name: No Social Media
+    pageRef: /no-social-media
+    weight: 10

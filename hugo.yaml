@@ -20,7 +20,7 @@ params:
     imageHeight: 240 # custom size
     buttons:
       - name: Resume
-        url: "https://github.com/stonecharioteer/archive/releases"
+        url: "https://github.com/stonecharioteer/resume/releases"
       - name: Tech Blog
         url: "https://tech.stonecharioteer.com"
       - name: Writing

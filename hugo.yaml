@@ -13,7 +13,7 @@ params:
   profileMode:
     enabled: true
     title: "Vinay Keerthi (stonecharioteer)" # optional default will be site title
-    subtitle: "A life of programming, writing and pet-parenting"
+    subtitle: "A life of reading, programming, writing and pet-parenting"
     imageUrl: "/logo.jpeg" # optional
     imageTitle: "Stonecharioteer Logo" # optional
     imageWidth: 240 # custom size
@@ -35,3 +35,7 @@ menus:
   - name: No Social Media
     pageRef: /no-social-media
     weight: 10
+  - name: Reading
+    pageRef: /reading
+    weight: 20
+

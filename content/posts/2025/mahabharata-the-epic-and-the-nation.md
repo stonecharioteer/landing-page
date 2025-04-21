@@ -118,9 +118,9 @@ This one quote summarizes what this book is about.
 > *[I]t is necessary to consider the relatively late arrival of Lord Krishna in
 > the Hindu pantheon. He was not part of the Vedic pantheon, which gave primacy to
 > Surya, Indra, Varuna, and Agni. Similarly, the darshanas, schools of ancient and
-> classical Indian philosophy, do not mention Krishna in any major discussion.
+> classical Indian philosophy, do not mention Krishna in any major discussion.*
 >
-> Towards the end of the first millennium, about eleven centuries before our time,
+> *Towards the end of the first millennium, about eleven centuries before our time,
 > Adi Shankara prepared a massive commentary on the Gita, the Gita Bhashya . Since
 > then, during the last thousand years, Krishna as a deity rose in eminence among
 > the medieval sects. This was reflected in iconography, theatre, dance, painting,
@@ -137,9 +137,9 @@ This one quote summarizes what this book is about.
 > Tilak, Sri Aurobindo, Mahatma Gandhi, Vinoba Bhave, and Sarvepalli
 > Radhakrishnan. In modern India, the Gita has acquired a special status as a
 > definitive religious text by being accorded legitimacy in law courts by the
-> legal system. It is a text accepted for taking oaths.
+> legal system. It is a text accepted for taking oaths.*
 > 
-> As we have seen, the Mahabharata emerged in ancient India as an oral epic. The
+> *As we have seen, the Mahabharata emerged in ancient India as an oral epic. The
 > Gita, placed within it at some stage in its historical journey, has come to be
 > its representation and is accepted as the written text for people who formally
 > identify as being Hindu. Just as it is difficult to say if the Gita of Krishna
@@ -217,8 +217,8 @@ heavier than a mountain._
 
 #### Page 128 @ 20 April 2025 11:20:09 PM
 > *David Anthony’s The Horse, The Wheel, and Language describes the historical
-> *transition from pre-chariot warfare to warfare in the era of speedy chariots
-> *pulled by powerful horses.*
+> transition from pre-chariot warfare to warfare in the era of speedy chariots
+> pulled by powerful horses.*
 
 This is a book I've meant to read, but I haven't yet gotten around to.
 

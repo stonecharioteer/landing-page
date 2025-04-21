@@ -203,8 +203,9 @@ in highlights, but I recommend reading this book just for this.
 > Death is better while engaged in one’s own duty; another’s duty is fraught with
 > fear*
 
-It is odd that I've been reading the Wheel of Time lately and one of my favourite lines from that series is
-_Death is lighter than a feather, duty heavier than a mountain._
+It is odd that I've been reading the Wheel of Time lately and one of my
+favourite lines from that series is _Death is lighter than a feather, duty
+heavier than a mountain._
 
 #### Page 121 @ 20 April 2025 11:17:38 PM
 > *the dharma of the ancient Brahminical Dharmasutras and the dharma articulated

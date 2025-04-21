@@ -115,7 +115,7 @@ This one quote summarizes what this book is about.
 
 #### Page 66 @ 20 April 2025 10:11:58 PM
 
-> * [I]t is necessary to consider the relatively late arrival of Lord Krishna in
+> *[I]t is necessary to consider the relatively late arrival of Lord Krishna in
 > the Hindu pantheon. He was not part of the Vedic pantheon, which gave primacy to
 > Surya, Indra, Varuna, and Agni. Similarly, the darshanas, schools of ancient and
 > classical Indian philosophy, do not mention Krishna in any major discussion.
@@ -140,10 +140,10 @@ This one quote summarizes what this book is about.
 > legal system. It is a text accepted for taking oaths.
 > 
 > As we have seen, the Mahabharata emerged in ancient India as an oral epic. The
-> Gita , placed within it at some stage in its historical journey, has come to be
+> Gita, placed within it at some stage in its historical journey, has come to be
 > its representation and is accepted as the written text for people who formally
 > identify as being Hindu. Just as it is difficult to say if the Gita of Krishna
-> was originally a part of the Mahabharata , it is also difficult to say if the
+> was originally a part of the Mahabharata, it is also difficult to say if the
 > great devotion to the Gita in the second millennium of Indian history was
 > because it was a part of the epic, or whether the undiminished popularity of the
 > Mahabharata till this day has been a result of the Gita being a part of it. And
@@ -164,7 +164,7 @@ This one quote summarizes what this book is about.
 > is associated with death. He is imagined to be the sovereign of the land to
 > which the dead depart. But that was not how Yama was positioned in ancient
 > myths. In the pre-Mahabharata mythology, Yama is described as Time as well as
-> Light. In the Rig Veda , dated by scholars prior to the era of the Mahabharata ,
+> Light. In the Rig Veda, dated by scholars prior to the era of the Mahabharata,
 > Yama is the son of Vivasvan and Saranya. Vivasvan is himself the Sun God and
 > Saranya is the Goddess of Dusk. At this juncture in the evolution of Indian
 > myths, Yama was not yet seen as the God of Death. He was an immortal who opted
@@ -198,7 +198,7 @@ in highlights, but I recommend reading this book just for this.
 
 #### Page 116 @ 20 April 2025 10:40:50 PM
 > *Chapter 3, shloka 35: shreyan svadharmo vigunah, pardharmat svanushthitat;
-> svadharme nidhanam shreyah, paradharmo bhayavahah , which reads in translation,
+> svadharme nidhanam shreyah, paradharmo bhayavahah, which reads in translation,
 > ‘one’s own duty, though defective, is superior to another’s duty well-performed.
 > Death is better while engaged in one’s own duty; another’s duty is fraught with
 > fear*
@@ -234,8 +234,8 @@ Ramayana. Is Devy mixing the two events up?
 #### Page 133 @ 20 April 2025 11:23:22 PM
 > *Jinasena, a major Jain thinker and writer of the Rashtrakuta period, wrote a
 > text during the ninth century quite akin to Vyasa’s Mahabharata . This text,
-> known as Harivamsha , focuses primarily on the Krishna–Jarasandha story.
-> Generally considered as the Jain Mahabharata , it does not place the Pandavas at
+> known as Harivamsha, focuses primarily on the Krishna–Jarasandha story.
+> Generally considered as the Jain Mahabharata, it does not place the Pandavas at
 > the centre of the plot. It is concerned more with distinguishing the characters
 > into two categories, the baladevas, those who use violence, and the vasudevas,
 > those who desist from using violence. Drawing upon the Jain advocacy of

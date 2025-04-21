@@ -23,7 +23,7 @@ params:
         url: "https://github.com/stonecharioteer/resume/releases"
       - name: Tech Blog
         url: "https://tech.stonecharioteer.com"
-      - name: Writing
+      - name: Writing (Fiction)
         url: "https://writing.stonecharioteer.com/"
       - name: Archive
         url: "https://old.stonecharioteer.com/"

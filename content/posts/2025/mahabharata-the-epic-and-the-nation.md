@@ -115,7 +115,7 @@ This one quote summarizes what this book is about.
 
 #### Page 66 @ 20 April 2025 10:11:58 PM
 
-> *[I]t is necessary to consider the relatively late arrival of Lord Krishna in
+> * [I]t is necessary to consider the relatively late arrival of Lord Krishna in
 > the Hindu pantheon. He was not part of the Vedic pantheon, which gave primacy to
 > Surya, Indra, Varuna, and Agni. Similarly, the darshanas, schools of ancient and
 > classical Indian philosophy, do not mention Krishna in any major discussion.

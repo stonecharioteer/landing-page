@@ -35,7 +35,7 @@ I hadn't heard of the Garasiya Bhils or their version of the Mahabharata.
 Imagine my surprise when Devy claims that their version is possibly *older*.
 
 I was most surprised that he constantly puts across an idea that Krishna
-Dvaipayana "Krishna of the Lake" (my most favourite way of referring to this
+Dvaipayana "Krishna of the Dark Island" (my most favourite way of referring to this
 person now) and Vyasa of the Vedas could have perhaps been two separate individuals.
 Now that's an idea that will turn some stomachs no doubt! (And I'm here for it)
 

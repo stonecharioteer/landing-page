@@ -1,4 +1,4 @@
----
+- --
 date: '2025-04-21T11:49:34+05:30'
 draft: false
 title: 'GN Devy - Mahabharata: The Epic and the Nation'
@@ -67,7 +67,7 @@ translated, and hence the one I've read and recommend. I love that Devy explaine
 how this edition even came to be.
 
 
-### Page 41 @ 20 April 2025 09:32:05 PM
+#### Page 41 @ 20 April 2025 09:32:05 PM
 > *The plot of the Mahabharata of the Garasiya Bhils and the plot in the
 > ‘critical edition’ Mahabharata have shared elements, but the differences are
 > quite striking. For instance, the vastra haran, disrobing of Draupadi, does not
@@ -82,7 +82,7 @@ how this edition even came to be.
 > The rituals associated with its recitation and performance clearly indicate that
 > the Bhili Mahabharata belongs to the realm of the sacred in their culture.*
 
-### Page 41 @ 20 April 2025 09:46:31 PM
+#### Page 41 @ 20 April 2025 09:46:31 PM
 > *My idea of what an oral epic is, or can be, is shaped by the Bhili
 > Mahabharata . I have read the documented text carefully and seen it performed
 > several times. I have also spoken to the members of the community, who undertake
@@ -96,24 +96,24 @@ how this edition even came to be.
 This quote and the previous one teach me that I need to read alternate versions of
 the Mahabharata as well, not just the Critical Edition.
 
-### Page 42 @ 20 April 2025 09:47:14 PM
+#### Page 42 @ 20 April 2025 09:47:14 PM
 > *Indians, old or young, in cities or in villages, think that they know the
 > Mahabharata although they rarely read the poem in print.*
 
-### Page 43 @ 20 April 2025 09:47:51 PM
+#### Page 43 @ 20 April 2025 09:47:51 PM
 > *And yet, we like to believe that we know the Mahabharata .*
 
 I chuckled as I read these sections. The number of people who think they know the
 Mahabharata just from reading Rajaji or from watching TV is hilarious indeed.
 
-### Page 45 @ 20 April 2025 10:00:09 PM
+#### Page 45 @ 20 April 2025 10:00:09 PM
 > *The Mahabharata tells us about the change taking place in ancient India over
 > an extended period of time, spanning several centuries. But, if it does so, what
 > indeed was the nature of the epistemic change that interested the Mahabharata?*
 
 This one quote summarizes what this book is about.
 
-### Page 66 @ 20 April 2025 10:11:58 PM
+#### Page 66 @ 20 April 2025 10:11:58 PM
 
 > *[I]t is necessary to consider the relatively late arrival of Lord Krishna in
 > the Hindu pantheon. He was not part of the Vedic pantheon, which gave primacy to
@@ -154,7 +154,7 @@ This one quote summarizes what this book is about.
 
 *Beautiful.*
 
-### Page 73 @ 20 April 2025 10:14:58 PM
+#### Page 73 @ 20 April 2025 10:14:58 PM
 
 > *The expanse and the grandeur of the action and the heroic qualities of the
 > major characters of the Mahabharata are so dazzling that, surprisingly, one
@@ -174,9 +174,9 @@ This one quote summarizes what this book is about.
 
 I didn't expect this, and it makes *so much sense.*
 
-## 2. The Wheel
+### 2. The Wheel
 
-### Page 109 @ 20 April 2025 10:36:01 PM
+#### Page 109 @ 20 April 2025 10:36:01 PM
 
 > *The widespread misconception that the Mahabharata war took place some 5,000
 > years ago, that the epic was composed some 4,000 years or so before our time,
@@ -187,7 +187,7 @@ Elsewhere in the book, I can't find it now, Devy says that this interspersing of
 history and mythology is something that repeats often in Indian archaeology.
 I'll come back to this one day to ponder more about it.
 
-### Page 110 @ 20 April 2025 10:38:07 PM
+#### Page 110 @ 20 April 2025 10:38:07 PM
 
 > *The story of Shantanu meeting Ganga is told in the ‘critical edition’ and in
 > most Mahabharata traditions one way, but it can also be narrated differently, as
@@ -196,7 +196,7 @@ I'll come back to this one day to ponder more about it.
 I was not aware of a Rajasthani Mahabharata. This retelling was too long to put
 in highlights, but I recommend reading this book just for this.
 
-### Page 116 @ 20 April 2025 10:40:50 PM
+#### Page 116 @ 20 April 2025 10:40:50 PM
 > *Chapter 3, shloka 35: shreyan svadharmo vigunah, pardharmat svanushthitat;
 > svadharme nidhanam shreyah, paradharmo bhayavahah , which reads in translation,
 > ‘one’s own duty, though defective, is superior to another’s duty well-performed.
@@ -206,7 +206,7 @@ in highlights, but I recommend reading this book just for this.
 It is odd that I've been reading the Wheel of Time lately and one of my favourite lines from that series is
 _Death is lighter than a feather, duty heavier than a mountain._
 
-### Page 121 @ 20 April 2025 11:17:38 PM
+#### Page 121 @ 20 April 2025 11:17:38 PM
 > *the dharma of the ancient Brahminical Dharmasutras and the dharma articulated
 > in the Mahabharata do not have much in common except for the language in which
 > they were written. The fact that these were texts in Sanskrit and written around
@@ -214,14 +214,14 @@ _Death is lighter than a feather, duty heavier than a mountain._
 > Mahabharata is a text about dharma as understood in the Dharmasutras.*
 
 
-### Page 128 @ 20 April 2025 11:20:09 PM
+#### Page 128 @ 20 April 2025 11:20:09 PM
 > *David Anthony’s The Horse, The Wheel, and Language describes the historical
 > *transition from pre-chariot warfare to warfare in the era of speedy chariots
 > *pulled by powerful horses.*
 
 This is a book I've meant to read, but I haven't yet gotten around to.
 
-### Page 129 @ 20 April 2025 11:21:19 PM
+#### Page 129 @ 20 April 2025 11:21:19 PM
 > *Arjuna, who alone can lift and wield the Kindhura dhanushya, the divine bow
 > given by Shiva to king Drupad for use in the Draupadi-svayamvar, the contest of
 > heroes to win Draupadi’s hand in marriage, represents Shiva.*
@@ -230,7 +230,7 @@ I am a little surprised,  but I'll have to verify in the Debroy translation. I
 do not think that the ability to lift the bow was ever in question, like in the
 Ramayana. Is Devy mixing the two events up?
 
-### Page 133 @ 20 April 2025 11:23:22 PM
+#### Page 133 @ 20 April 2025 11:23:22 PM
 > *Jinasena, a major Jain thinker and writer of the Rashtrakuta period, wrote a
 > text during the ninth century quite akin to Vyasa’s Mahabharata . This text,
 > known as Harivamsha , focuses primarily on the Krishna–Jarasandha story.
@@ -247,14 +247,14 @@ Ramayana. Is Devy mixing the two events up?
 
 Wait, does this say what I think it says? The Harivamsha is a Jain work?
 
-### Page 163 @ 20 April 2025 11:35:50 PM
+#### Page 163 @ 20 April 2025 11:35:50 PM
 > *When post-Vedic Sanskrit was in ascendency, India had other well-developed
 > languages such as Pali, Tamil, Prakrit, and an ancient variety of what is the
 > present-day Assamiya.*
 
 I didn't know Assamese was that old!
 
-### Page 167 @ 20 April 2025 11:37:53 PM
+#### Page 167 @ 20 April 2025 11:37:53 PM
 
 > *The geographical area where the Buddha lived and travelled during his four
 > decades as a wandering philosopher-saint had several living languages in use.
@@ -264,7 +264,7 @@ I didn't know Assamese was that old!
 
 It is sad that many languages need to fight to earn the tag of "classical languages". 
 
-### Page 178 @ 20 April 2025 11:41:11 PM
+#### Page 178 @ 20 April 2025 11:41:11 PM
 > *If one were to answer the question, ‘What is it all about?’, one can propose
 > with a fair degree of justice that, apart from it being about many, many other
 > important things, it is about a method of understanding the past as a composite

@@ -39,6 +39,9 @@
 {{- $pages = site.RegularPages }}
 {{- end }}
 
+{{/* Filter out private posts from archives */}}
+{{- $pages = where $pages "Params.private" "ne" true }}
+
 {{- range $pages.GroupByPublishDate "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">

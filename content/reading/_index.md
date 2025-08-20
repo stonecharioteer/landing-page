@@ -1,6 +1,6 @@
 ---
 title: 'Reading'
-layout: "archives"
+description: 'Books I read and my thoughts on them'
 ---
 
 I love to read and I'm not a great fan of Goodreads, although I _do_ have an account there. In this section, I'm going to document my reading, and treat this as an Archive page, of sorts. I read physical books and digital, but these days I'm predominantly leaning towards reading physically.

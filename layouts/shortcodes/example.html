@@ -1,0 +1,10 @@
+{{- $title := .Get "title" | default "Example" -}}
+<div class="admonition example">
+    <div class="admonition-title">
+        <span class="admonition-icon">📋</span>
+        <span class="admonition-text">{{ $title }}</span>
+    </div>
+    <div class="admonition-content">
+        {{ .Inner | markdownify }}
+    </div>
+</div>

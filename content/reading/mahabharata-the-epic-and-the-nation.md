@@ -2,6 +2,7 @@
 date: '2025-04-21T11:49:34+05:30'
 draft: false
 title: 'GN Devy - Mahabharata: The Epic and the Nation'
+description: 'A thoughtful exploration of the Mahabharata as both epic literature and commentary on nation-building in ancient India'
 tags:
     - "reading"
     - "mythology"

@@ -24,11 +24,25 @@ This project is migrating personal content from an old Sphinx blog at `../archiv
    - Add `draft: true` to all migrated content
 
 4. **Priority Order**:
-   - High-value personal stories (Toriyama tribute, swimming journey)
-   - Mahabharata reading series (2016-2017 daily posts)
+   - High-value personal stories (Toriyama tribute, swimming journey) ✅
+   - Mahabharata reading series (2016-2017 daily posts) ✅
    - Book reviews and reading correspondence
    - Creative writing and family stories
    - Selected drafts with personal value
+
+## Completed Migration Status
+
+### ✅ Mahabharata Reading Series
+- **Status**: Complete with navigation fixes
+- **Content**: All 20 daily posts from 2016 reading journey at Hampi
+- **Navigation**: Fixed cross-post URLs for seamless reading experience
+- **Location**: `content/reading/2016/mahabharata-day-01.md` through `mahabharata-day-20.md`
+- **Features**: Consistent Hugo ref shortcodes for reliable post-to-post navigation
+
+### ✅ Personal Stories  
+- **Swimming Journey**: Complete with progress tracking page
+- **Toriyama Tribute**: Migrated with image assets
+- **Creative Writing**: Multiple pieces from 2019-2024 migrated
 
 5. **Asset Migration**:
    - Copy images from `../archive/source/_static/images/` to `static/images/`

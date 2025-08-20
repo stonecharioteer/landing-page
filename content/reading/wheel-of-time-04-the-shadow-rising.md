@@ -2,6 +2,7 @@
 date: '2025-04-10T12:42:38+05:30'
 draft: false
 title: 'Robert Jordan - The Shadow Rising'
+description: 'The fourth book in the Wheel of Time series brings major character developments and world-building as the protagonists face new challenges'
 tags:
   - "reading"
   - "wheel-of-time"

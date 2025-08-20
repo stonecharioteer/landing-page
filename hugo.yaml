@@ -9,6 +9,11 @@ outputs:
     - JSON # necessary for search
 ignoreLogs:
   - 'warning-partial-superfluous-prefix'
+  - 'warning-goldmark-raw-html'
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   defaultTheme: light
   disableThemeToggle: true
@@ -29,11 +34,11 @@ params:
         url: "https://rfc.stonecharioteer.com"
       - name: Archive
         url: "https://old.stonecharioteer.com/"
-  mainSections: ['blog', 'reading']
+  mainSections: ['writing', 'reading']
 menus:
   main:
   - name: Writing
-    pageRef: /blog
+    pageRef: /writing
     weight: 10
   - name: Blog
     url: "https://tech.stonecharioteer.com"

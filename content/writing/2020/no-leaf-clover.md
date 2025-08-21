@@ -4,7 +4,6 @@ date: 2020-02-02T00:00:00Z
 description: "Part 2 of my hearing loss journey - learning to adapt to single-sided deafness, getting hearing aids, and finding ways to move forward with one working ear."
 tags: ["hearing-loss", "single-sided-deafness", "health", "life", "inclusion", "accessibility", "hearing-aid"]
 categories: ["Life", "Health"]
-draft: true
 ---
 
 I do not believe in luck. There is no such thing. Things happen and we must accept them or reject them. What we do defines us.

@@ -4,7 +4,6 @@ date: 2020-01-01T00:00:00Z
 description: "A heartfelt poem about adopting an elephant named Puttu and making him part of the family - exploring themes of love, care, and the bonds between humans and animals."
 tags: ["poem", "writing", "elephant", "pets", "animals", "animal-lovers", "love", "family"]
 categories: ["Poetry", "Creative"]
-draft: true
 ---
 
 *If I adopt an elephant,*  

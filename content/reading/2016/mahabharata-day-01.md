@@ -4,7 +4,6 @@ date: 2016-12-01T00:00:00Z
 description: "Starting my journey reading the Mahabharata by Bibek Debroy at Hampi, by the Tungabhadra river - encountering a stranger and sharing stories of this historic place."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "indian-mythology", "tungabhadra", "reading-journey"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

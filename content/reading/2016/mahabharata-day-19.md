@@ -4,7 +4,6 @@ date: 2016-12-28T00:00:00Z
 description: "Day 19 of reading the Mahabharata - the end approaches. Bhishma's final teachings, the fall of the Yadavas, Krishna's death, and the Pandavas' final journey north."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "bhishma", "end", "yadavas", "krishna", "pandavas", "journey", "death"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

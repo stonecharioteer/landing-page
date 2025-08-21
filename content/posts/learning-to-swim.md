@@ -4,7 +4,6 @@ date: 2023-08-28T00:00:00+05:30
 description: "A deeply personal journey of overcoming submechanophobia and childhood trauma to learn swimming at age 35. A story of facing fears, family trauma, and finding courage through the Litany Against Fear from Dune."
 tags: ["swimming", "life", "health", "fear", "dune", "litany-against-fear", "zee-swim-academy", "submechanophobia", "personal-growth", "phobia", "courage"]
 categories: ["Life", "Personal"]
-draft: true
 ---
 
 {{< note >}}

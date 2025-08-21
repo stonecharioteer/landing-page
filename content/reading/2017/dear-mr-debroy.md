@@ -4,7 +4,6 @@ date: 2017-03-22T00:00:00Z
 description: "A heartfelt letter to Bibek Debroy thanking him for his masterful translation of the Mahabharata - reflecting on my 20-day reading journey by the Tungabhadra at Hampi."
 tags: ["bibek-debroy", "letters", "mahabharata", "indian-mythology", "books", "reading", "writing", "hampi", "gratitude", "translation"]
 categories: ["Reading", "Mahabharata", "Letters"]
-draft: true
 series: "mahabharata-reading"
 ---
 

@@ -4,7 +4,6 @@ date: 2016-12-15T00:00:00Z
 description: "Day 9 of reading the Mahabharata - interactions with locals and tour guides, reflecting on Hampi's destruction and drawing parallels to Dhritarashtra's blindness to war's cost."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "vijayanagara", "temples", "war", "dhritarashtra", "krishna", "destruction"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

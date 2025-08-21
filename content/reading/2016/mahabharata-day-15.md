@@ -4,7 +4,6 @@ date: 2016-12-21T00:00:00Z
 description: "Day 15 of reading the Mahabharata - continuing the epic journey through its profound teachings at the sacred site of Hampi."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

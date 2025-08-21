@@ -4,7 +4,6 @@ date: 2016-12-27T00:00:00Z
 description: "Day 18 of reading the Mahabharata - nearing the culmination of the epic reading journey, reflecting on the profound lessons learned."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

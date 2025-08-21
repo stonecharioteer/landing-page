@@ -4,7 +4,6 @@ date: 2016-12-18T00:00:00Z
 description: "Day 12 of reading the Mahabharata - continuing the reading journey at Hampi, delving deeper into the epic's teachings and stories."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

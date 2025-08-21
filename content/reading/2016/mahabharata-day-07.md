@@ -4,7 +4,6 @@ date: 2016-12-08T00:00:00Z
 description: "Day 7 of reading the Mahabharata - encounter with a British traveler, reading under trees near Anjanadri Parvatha about Bhima meeting Hanuman and Arjuna's return with divine weapons."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "hanuman", "anjanadri", "bhima", "arjuna", "divine-weapons", "markandeya", "droupadi"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

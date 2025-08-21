@@ -99,6 +99,19 @@ This section was written with AI assistance.
 
 ### Development
 
+**Requirements:**
+- Hugo v0.146.7 (extended version required)
+
+**Install Hugo Extended:**
+```bash
+# On Ubuntu/Debian
+wget https://github.com/gohugoio/hugo/releases/download/v0.146.7/hugo_extended_0.146.7_linux-amd64.deb
+sudo dpkg -i hugo_extended_0.146.7_linux-amd64.deb
+
+# Or via package manager if available
+snap install hugo --channel=extended
+```
+
 **Start local server:**
 ```bash
 hugo server --buildDrafts
@@ -108,6 +121,12 @@ hugo server --buildDrafts
 ```bash
 hugo
 ```
+
+**Test GitHub Actions workflow locally:**
+```bash
+gh act -j build
+```
+This runs the build job locally using Docker, testing the same environment as GitHub Actions. The upload step is automatically skipped when running locally. Generated site will be in `./public/`.
 
 ## Theme
 

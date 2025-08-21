@@ -4,7 +4,6 @@ date: 2016-12-10T00:00:00Z
 description: "Day 8 of reading the Mahabharata - reading Markandeya's Ramayana in Hampi, Yudhishtira's answers to the Yaksha, Savitri's story, and Arjuna's battle in disguise."
 tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "ramayana", "markandeya", "yaksha", "savitri", "arjuna", "disguise"]
 categories: ["Reading", "Mahabharata"]
-draft: true
 series: "mahabharata-reading"
 ---
 

@@ -46,6 +46,9 @@ menus:
   - name: Reading
     pageRef: /reading
     weight: 20
+  - name: Swimming
+    pageRef: /pages/swimming-journey
+    weight: 25
   - name: Nope
     pageRef: /nope
     weight: 30

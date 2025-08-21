@@ -5,11 +5,11 @@ date: 2023-02-01T00:00:00Z
 url: "/swimming-journey/"
 ---
 
-This page tracks my journey learning to swim, starting in February 2023.
+This page tracks my journey learning to swim, starting in February 2023. You can read the full story of [how I learned to overcome my fears and start swimming]({{< ref "/writing/2023/learning-to-swim" >}}).
 
 ## Progress Overview
 
-From being terrified to get past the 15m mark to swimming 700m in sessions - here's my measurable progress:
+From being terrified to get past the 15m mark to swimming 1000m sessions - here's my measurable progress:
 
 <div id="swimming-progress">
 <table id="progress-table">
@@ -32,14 +32,19 @@ From being terrified to get past the 15m mark to swimming 700m in sessions - her
 - **May 2023**: First time diving into deep end with coach support  
 - **July 2023**: Returned after break, building consistency at 25m laps
 - **August 2023**: Major breakthrough - 35m laps, 700m total sessions
+- **November 2023**: First ocean swimming in Maldives - navigated 30ft+ deep water calmly
+- **March-June 2024**: Achieved 50m continuous freestyle swims
+- **June 2025**: Major breakthrough - 1000m sessions (20 laps in 25m pool)
 - **Ongoing**: Building endurance and improving technique
 
 ## Current Goals
 
-- Increase session distance to 1000m
+- ~~Increase session distance to 1000m~~ ✓ Achieved in June 2025!
+- Improve swimming pace and technique
 - Master treading water in deep end
 - Improve breathing technique for longer freestyle stretches
-- Build confidence for open water swimming
+- ~~Build confidence for open water swimming~~ ✓ Achieved in Maldives!
+- Continue developing open water swimming skills
 
 ---
 

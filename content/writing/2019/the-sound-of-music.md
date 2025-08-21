@@ -4,7 +4,6 @@ date: 2019-12-11T00:00:00Z
 description: "The beginning of my journey with sudden sensorineural hearing loss - losing my left ear and learning to navigate a world with one functioning ear."
 tags: ["hearing-loss", "single-sided-deafness", "health", "life", "music", "snhl"]
 categories: ["Life", "Health"]
-draft: true
 ---
 
 I don't know the first thing about music.

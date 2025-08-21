@@ -4,7 +4,6 @@ date: 2020-09-01T00:00:00Z
 description: "One year anniversary of losing my hearing - reflecting on adaptation, family understanding, sleep challenges, accessibility, and moving forward with single-sided deafness."
 tags: ["hearing-loss", "single-sided-deafness", "health", "life", "anniversary", "accessibility", "family"]
 categories: ["Life", "Health"]
-draft: true
 ---
 
 ![Headphones](/images/posts/hearing-loss/ear-one.jpeg)

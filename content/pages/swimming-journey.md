@@ -5,7 +5,7 @@ date: 2023-02-01T00:00:00Z
 url: "/swimming-journey/"
 ---
 
-This page tracks my journey learning to swim, starting in February 2023. You can read the full story of [how I learned to overcome my fears and start swimming]({{< ref "/writing/2023/learning-to-swim" >}}).
+This page tracks my journey learning to swim, starting in February 2023.
 
 ## Progress Overview
 

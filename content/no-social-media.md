@@ -5,6 +5,10 @@ type: "page"
 description: "I'm not on social media anymore"
 ---
 
+{{< info >}}
+**Update (August 2025)**: I maintain a limited presence on [x.com/stonecharioteer](https://x.com/stonecharioteer) for [workshop](https://hasgeek.com/stonecharioteer_workshops) announcements and professional outreach only.
+{{< /info >}}
+
 Over the last 2 months, I’ve deleted my Reddit, Twitter, Instagram and Facebook
 accounts. I have been thinking about it for a while now, and I’d already stopped
 using Facebook in 2016. I switched to Instagram, and while I had some memorable

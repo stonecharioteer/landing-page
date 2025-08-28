@@ -13,6 +13,11 @@
         {{ . | markdownify }}
         {{- print " · "}}
     {{- end }}
+    
+    <span>
+        <a href="{{ "nope" | absLangURL }}">Nope</a> · 
+        <a href="{{ "no-social-media" | absLangURL }}">No Social Media</a>
+    </span>
 
 </footer>
 {{- end }}

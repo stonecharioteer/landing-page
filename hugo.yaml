@@ -49,10 +49,7 @@ menus:
   - name: Swimming
     pageRef: /pages/swimming-journey
     weight: 25
-  - name: Nope
-    pageRef: /nope
-    weight: 30
-  - name: No Social Media
-    pageRef: /no-social-media
-    weight: 40
+  - name: Week Notes
+    pageRef: /weeknotes
+    weight: 27
 

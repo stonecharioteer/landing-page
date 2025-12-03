@@ -1,0 +1,29 @@
+<section class="newsletter-embed" aria-labelledby="newsletter-title">
+  <div class="newsletter-embed__inner">
+    <div class="newsletter-embed__text">
+      <p class="newsletter-embed__eyebrow">Newsletter</p>
+      <h2 id="newsletter-title" class="newsletter-embed__title">Get new posts in your inbox</h2>
+      <p class="newsletter-embed__copy">
+        Join to receive essays, notes, and updates as soon as they publish.
+      </p>
+    </div>
+    <form
+      action="https://picoletter.com/stonecharioteer/embed/subscribe"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://picoletter.com/stonecharioteer', popupwindow)"
+      class="picoletter-form-embed"
+    >
+      <label for="pico-name">Enter your name</label>
+      <input type="text" name="name" id="pico-name" />
+
+      <label for="pico-email">Enter your email</label>
+      <input type="email" name="email" id="pico-email" />
+
+      <input type="submit" value="Subscribe" />
+      <p>
+        <a href="https://picoletter.com?from=stonecharioteer" target="_blank">Built using Picoletter.</a>
+      </p>
+    </form>
+  </div>
+</section>

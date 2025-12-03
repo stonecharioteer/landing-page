@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 20"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 20'
 date: 2016-12-29T00:00:00Z
-description: "Final day of the Mahabharata reading journey at Hampi - reflecting on overcoming fear, finding courage like Arjuna before the Bhagavad Gita, and the completion of a transformative 20-day reading pilgrimage."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "fear", "courage", "bhagavad-gita", "arjuna", "completion", "journey"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+description: 'Final day of the Mahabharata reading journey at Hampi - reflecting on overcoming fear, finding courage like Arjuna before the Bhagavad Gita, and the completion of a transformative 20-day reading pilgrimage.'
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'fear',
+    'courage',
+    'bhagavad-gita',
+    'arjuna',
+    'completion',
+    'journey',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 This journey has been relieving. I have done all that I set out to do. I came for a larger purpose, to start writing once again. It has been too long, and I have been scared of something.

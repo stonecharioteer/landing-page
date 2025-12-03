@@ -1,36 +1,37 @@
 ---
-title: "How do I read of thee, O Rama?"
+title: 'How do I read of thee, O Rama?'
 date: 2020-01-01T00:00:00Z
 description: "A powerful poem questioning how to read the Ramayana when Rama's name has been weaponized for violence and hatred - exploring the tension between sacred stories and their political misuse."
-tags: ["poems", "writing", "ramayana", "india", "politics", "religion", "violence", "social-commentary"]
-categories: ["Poetry", "Creative"]
+tags:
+  ['poems', 'writing', 'ramayana', 'india', 'politics', 'religion', 'violence', 'social-commentary']
+categories: ['Poetry', 'Creative']
 draft: true
 ---
 
-*How do I read of thee, O Rama,*  
-*When your name is a war cry?*  
-*Not when your Sita is whisked away,*  
-*But when mobs raise orange flags.*
+_How do I read of thee, O Rama,_  
+_When your name is a war cry?_  
+_Not when your Sita is whisked away,_  
+_But when mobs raise orange flags._
 
-*How do I read of thee, O Rama,*  
-*When blood is spilled at your name?*  
-*Not when Indrajit fells Lakshmana,*  
-*But when innocent children are slain?*
+_How do I read of thee, O Rama,_  
+_When blood is spilled at your name?_  
+_Not when Indrajit fells Lakshmana,_  
+_But when innocent children are slain?_
 
-*How do I read of thee, O Rama,*  
-*When women are raped for you?*  
-*Not because you asked, no,*  
-*But because they veil themselves.*
+_How do I read of thee, O Rama,_  
+_When women are raped for you?_  
+_Not because you asked, no,_  
+_But because they veil themselves._
 
-*How do I read of thee, O Rama,*  
-*When fire burns saffron in your praise?*  
-*Agni burns both fakirs and kafirs alike.*  
-*What does he know of directed malaise?*
+_How do I read of thee, O Rama,_  
+_When fire burns saffron in your praise?_  
+_Agni burns both fakirs and kafirs alike._  
+_What does he know of directed malaise?_
 
-*But I do read of you, Rama,*  
-*Because they don't.*  
-*They don't know all your stories,*  
-*Or your names, from Raghava to Phra Lam.*
+_But I do read of you, Rama,_  
+_Because they don't._  
+_They don't know all your stories,_  
+_Or your names, from Raghava to Phra Lam._
 
 {{< note >}}
 This is something I wrote on the spur of the moment after reading Bhisham Sahni's Tamas, a book on communal hatred.

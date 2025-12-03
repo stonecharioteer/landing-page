@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 10"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 10'
 date: 2016-12-16T00:00:00Z
 description: "Day 10 of reading the Mahabharata - reading slowly on Matanga Hill where the sage cursed Vali, reflecting on Dhritarashtra's desire to avoid war and the famous saying about the epic's universality."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "matanga", "vali", "dhritarashtra", "vidura", "war", "universality"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'matanga',
+    'vali',
+    'dhritarashtra',
+    'vidura',
+    'war',
+    'universality',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 I am not reading these books at my usual speed. I could take the shorter way, read at full speed from the comforts of my home, or I could do it this way.

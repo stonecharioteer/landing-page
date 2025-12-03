@@ -1,10 +1,21 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 2"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 2'
 date: 2016-12-02T00:00:00Z
-description: "Day 2 of reading the Mahabharata at Hampi - experiencing the stories of Shakuntala and Dushyantha, Yayati and his sons, while a flute plays in the distance."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "indian-mythology", "shakuntala", "yayati", "tungabhadra"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+description: 'Day 2 of reading the Mahabharata at Hampi - experiencing the stories of Shakuntala and Dushyantha, Yayati and his sons, while a flute plays in the distance.'
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'indian-mythology',
+    'shakuntala',
+    'yayati',
+    'tungabhadra',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 It is unbelievably calm atop a hill. I was right when I chose this spot to read the Mahabharata. Reading of Shakuntala and Dushyantha, I lost myself in her pain as he denied loving her. Reading about Yayati and how he beseeched his sons to share with him their youth, I could agree with him that one thousand years could never be enough time to enjoy the wonders of this world.

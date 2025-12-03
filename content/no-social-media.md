@@ -1,7 +1,7 @@
 ---
 title: 'Goodbye, Social Networks'
-date: "2023-01-29"
-type: "page"
+date: '2023-01-29'
+type: 'page'
 description: "I'm not on social media anymore"
 ---
 

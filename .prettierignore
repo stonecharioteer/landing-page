@@ -1,0 +1,8 @@
+node_modules
+public
+themes
+resources
+.hugo_build.lock
+layouts
+.DS_Store
+*.log

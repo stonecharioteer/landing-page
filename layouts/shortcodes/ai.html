@@ -1,8 +1,4 @@
 <div class="admonition ai">
-    <div class="admonition-title">
-        🤖 {{ .Get "title" | default "AI Generated" }}
-    </div>
-    <div class="admonition-content">
-        {{ .Inner | markdownify }}
-    </div>
+  <div class="admonition-title">🤖 {{ .Get "title" | default "AI Generated" }}</div>
+  <div class="admonition-content">{{ .Inner | markdownify }}</div>
 </div>

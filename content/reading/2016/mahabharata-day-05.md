@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 5"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 5'
 date: 2016-12-05T00:00:00Z
 description: "Day 5 of reading the Mahabharata - reflecting on dharma versus organized religion, reading of the Pandavas' exile and their plans for revenge, the scope and expanse of this epic."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "dharma", "religion", "pandavas", "exile", "revenge", "krishna"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'dharma',
+    'religion',
+    'pandavas',
+    'exile',
+    'revenge',
+    'krishna',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 I do not believe in religion, I despise the organized rituals that exist today. That is not Sanathana Dharma. Dharma is subtle, it is imbued into the blood of people such as Prahalada and Bali. It runs through the veins of Markandeya, and it is in the pillars of the sabha Maya built for Dharmaraja.

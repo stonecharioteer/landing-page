@@ -4,10 +4,19 @@ date: 2018-05-26
 lastmod: 2025-12-03
 author: 'Vinay Keerthi'
 description: 'A long-form letter to Bibek Debroy reflecting on reading his Valmiki Ramayana translation by the Tungabhadra river in May 2018.'
-tags: ['Ramayana', 'Literature', 'Hampi', 'Bibek Debroy', 'Personal']
-categories: ['Letters', 'Reading']
+tags: ['ramayana', 'hampi', 'bibek debroy']
+categories: ['Letters', 'Reading', 'Ramayana']
 aliases: ['/letters/debroy/ramayana/']
+cover:
+  image: '/images/books/ramayana-debroy.jpeg'
+  alt: 'Letter to Bibek Debroy about reading the Valmiki Ramayana at Hampi'
+images:
+  - '/images/books/ramayana-debroy.jpeg'
 ---
+
+{{< note >}}
+This is the digital form of a letter I wrote to Bibek Debroy in 2018.
+{{< /note >}}
 
 **May 6, 2018** - **May 26, 2018**
 
@@ -15,7 +24,7 @@ Dear Mr. Debroy,
 
 It has taken me over a month to get myself ready to write this letter. I began writing it before I'd returned from Kishkinda, but I couldn't find the time to finish it.
 
-I began writing this letter in my Grandfather's house in a village Called Kamalapura, four kilometres from the ruins of Vijayanagara. I had not yet finished the Ramayana, but I wanted to compose this letter before beginning the Yuddha Kanda. I felt that way because oddly enough, my trip this time coincided with the annual marriage of Pampa and Virupaksha. Hampi was swamped with locals. It was scorching hot.
+I began writing this letter in my Grandfather's house in a village called [Kamalapura,](https://maps.app.goo.gl/mY4sFQ6RRFoYKwpA8) four kilometres from the ruins of Vijayanagara. I had not yet finished the Ramayana, but I wanted to compose this letter before beginning the Yuddha Kanda. I felt that way because oddly enough, my trip this time coincided with the annual marriage of Pampa and Virupaksha. Hampi was swamped with locals. It was scorching hot.
 
 Mr. Debroy, Hampi was perfect. It was perfectly hot enough to read of the misfortunes of Rama. So in the abandoned temple to Ranganatha, the Sleeping Vishnu, where I read the thousand names of Narayana, I sat alone and read the story of Rama of the Bow.
 
@@ -251,8 +260,8 @@ I am sending you a small sculpture of the Stone Chariot. In these two years, Sir
 
 Thank you.
 
-Please extend my deepest regards to Your family as well.
+Please extend my deepest regards to your family as well.
 
-Yours Sincerely,
+Yours sincerely,
 
 Vinay Keerthi

@@ -199,6 +199,131 @@
   color: #c4b5fd;
 }
 
+/* Newsletter embed */
+.newsletter-embed {
+  --picoletter-accent: #09090b;
+  --picoletter-accent-light: color-mix(in srgb, var(--picoletter-accent), white 30%);
+  --picoletter-accent-lightest: color-mix(in srgb, var(--picoletter-accent), white 90%);
+  --picoletter-accent-dark: color-mix(in srgb, var(--picoletter-accent), black 30%);
+  --picoletter-radius: 0.75rem;
+  margin-top: 2.5rem;
+  padding: 1.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: var(--picoletter-radius);
+  background: linear-gradient(135deg, rgba(9, 9, 11, 0.02), rgba(9, 9, 11, 0.04));
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+.dark .newsletter-embed {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.05));
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.newsletter-embed__inner {
+  display: grid;
+  gap: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .newsletter-embed__inner {
+    grid-template-columns: 1.2fr 1fr;
+    align-items: center;
+  }
+}
+
+.newsletter-embed__eyebrow {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6b7280;
+  margin-bottom: 0.3rem;
+}
+
+.newsletter-embed__title {
+  font-size: 1.35rem;
+  margin: 0 0 0.35rem;
+}
+
+.newsletter-embed__copy {
+  margin: 0;
+  color: #4b5563;
+}
+
+.dark .newsletter-embed__eyebrow,
+.dark .newsletter-embed__copy {
+  color: #d1d5db;
+}
+
+.picoletter-form-embed {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-family: SF Pro Display, -apple-system, BlinkMacSystemFont, Helvetica Neue, sans-serif;
+}
+
+.picoletter-form-embed label {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+.picoletter-form-embed input[type='text'],
+.picoletter-form-embed input[type='email'] {
+  padding: 0.65rem 0.75rem;
+  border-radius: var(--picoletter-radius);
+  border: 1px solid #d1d5db;
+  background-color: #fff;
+  font-size: 1rem;
+}
+
+.picoletter-form-embed input[type='submit'] {
+  border: 1px solid var(--picoletter-accent);
+  background-color: var(--picoletter-accent);
+  color: var(--picoletter-accent-lightest);
+  padding: 0.7rem 1rem;
+  text-decoration: none;
+  line-height: normal;
+  margin-top: 0.6rem;
+  border-radius: var(--picoletter-radius);
+  font-weight: 700;
+}
+
+.picoletter-form-embed input[type='submit']:hover {
+  background-color: var(--picoletter-accent-dark);
+  border-color: var(--picoletter-accent-dark);
+  cursor: pointer;
+}
+
+.picoletter-form-embed p {
+  margin: 0.4rem 0 0;
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.picoletter-form-embed a {
+  color: var(--picoletter-accent);
+}
+
+.dark .picoletter-form-embed input[type='text'],
+.dark .picoletter-form-embed input[type='email'] {
+  background-color: #111827;
+  border-color: #1f2937;
+  color: #f9fafb;
+}
+
+.dark .picoletter-form-embed input[type='submit'] {
+  color: var(--picoletter-accent-lightest);
+}
+
+.dark .picoletter-form-embed p {
+  color: #9ca3af;
+}
+
+.dark .picoletter-form-embed a {
+  color: var(--picoletter-accent-light);
+}
+
 .dark .admonition.example .admonition-content {
   color: #e9d5ff;
 }

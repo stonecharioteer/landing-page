@@ -1,10 +1,20 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 1"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 1'
 date: 2016-12-01T00:00:00Z
-description: "Starting my journey reading the Mahabharata by Bibek Debroy at Hampi, by the Tungabhadra river - encountering a stranger and sharing stories of this historic place."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "indian-mythology", "tungabhadra", "reading-journey"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+description: 'Starting my journey reading the Mahabharata by Bibek Debroy at Hampi, by the Tungabhadra river - encountering a stranger and sharing stories of this historic place.'
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'indian-mythology',
+    'tungabhadra',
+    'reading-journey',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 Hampi. As a kid, I didn't like going to Hampi. I had nothing to see there, it was full of tanks and wells. I didn't care much for the heat either.

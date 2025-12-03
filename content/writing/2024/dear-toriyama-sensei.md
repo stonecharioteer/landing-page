@@ -1,8 +1,8 @@
 ---
-title: "Dear Toriyama-sensei"
+title: 'Dear Toriyama-sensei'
 date: 2024-03-19T00:00:00Z
-description: "A letter to Akira Toriyama, the creator of Dragon Ball and Dr. Slump, about what he means to someone who grew up in India"
-tags: ["dragonball", "anime", "manga", "india", "videogames", "personal", "tribute"]
+description: 'A letter to Akira Toriyama, the creator of Dragon Ball and Dr. Slump, about what he means to someone who grew up in India'
+tags: ['dragonball', 'anime', 'manga', 'india', 'videogames', 'personal', 'tribute']
 ---
 
 **Date: March 19, 2024**
@@ -23,26 +23,26 @@ The cartridges were sold by toy stores who didn't know much about them. I freque
 
 It didn't. It had 4 games, and 3 of them were something called Dragonball Z. I later discovered that it was a bootleg copy of Super Butouden 2,[^super_butouden_2_unlicensed] with the story mode stripped out. I played this game for hours with my friends.
 
-I started playing the game, and *all* of the text was in Japanese. I didn't know who the characters were, only that this was a *killer* fighting game. The color tones were **bad**, mostly monochrome characters. I picked the coolest looking characters to use. Little did I know that even then I picked Goku and Gohan. I pitted them against Frieza and Cell.
+I started playing the game, and _all_ of the text was in Japanese. I didn't know who the characters were, only that this was a _killer_ fighting game. The color tones were **bad**, mostly monochrome characters. I picked the coolest looking characters to use. Little did I know that even then I picked Goku and Gohan. I pitted them against Frieza and Cell.
 
 I had no idea what I was doing.
 
 That was the year that Toonami came to India. Dragonball Z started airing in the evenings every week and it caught my attention when I saw my sister watching it one day. How was I to know that casually watching this show would change my life in 2001?
 
-I'd never seen such a brilliant show before! Each episode carried into the next, revealing lore and exposition. I was hooked by the time Raditz was killed. I *loved* the Special Beam Cannon and Piccolo was quickly my favourite character.
+I'd never seen such a brilliant show before! Each episode carried into the next, revealing lore and exposition. I was hooked by the time Raditz was killed. I _loved_ the Special Beam Cannon and Piccolo was quickly my favourite character.
 
 I didn't know, sensei, what I was getting into.
 
-Cartoon Network only aired 53 episodes, in repetition.[^toonami_ocean_dub] I didn't know what happened after Goku beats Recoome on Namek with one blow. I didn't know what a *Super Saiyan* was, something that Vegeta kept going on and on about. I wanted to know more, and that was around the time that the internet became more widely available in India through *cyber cafes*. I'd go to these cyber cafes, pay an hourly price and read up on what would happen on Dragonball Z via the official website. I was mesmerized by this site, and wanted to have a local copy at home on my computer. It was 2003 and I didn't have an internet connection back home. So I began downloading images on a floppy disk, and took them home to use as wallpapers or just to save them on my storage drive. I had a friend print out a few to use as "posters", they were postcard sized and his printer ran out of some colors so they were all mostly monochrome. I didn't even know what some of them were. I remember them vividly now.
+Cartoon Network only aired 53 episodes, in repetition.[^toonami_ocean_dub] I didn't know what happened after Goku beats Recoome on Namek with one blow. I didn't know what a _Super Saiyan_ was, something that Vegeta kept going on and on about. I wanted to know more, and that was around the time that the internet became more widely available in India through _cyber cafes_. I'd go to these cyber cafes, pay an hourly price and read up on what would happen on Dragonball Z via the official website. I was mesmerized by this site, and wanted to have a local copy at home on my computer. It was 2003 and I didn't have an internet connection back home. So I began downloading images on a floppy disk, and took them home to use as wallpapers or just to save them on my storage drive. I had a friend print out a few to use as "posters", they were postcard sized and his printer ran out of some colors so they were all mostly monochrome. I didn't even know what some of them were. I remember them vividly now.
 
 ![Trunks vs Frieza](/images/posts/toriyama/trunks_v_frieza.png)
-*Trunks slicing Frieza in half. I didn't even know who this was when I got this printed!*
+_Trunks slicing Frieza in half. I didn't even know who this was when I got this printed!_
 
 ![Makkankosappo](/images/posts/toriyama/makkankosappo.png)
-*The Special Beam Cannon was my most favourite move! Even more than the Kamehameha!*
+_The Special Beam Cannon was my most favourite move! Even more than the Kamehameha!_
 
 ![Piccolo vs Frieza](/images/posts/toriyama/piccolo-vs-frieza.png)
-*Piccolo was my most favourite character! I used to think that he would grow into one of the most powerful characters in the show and outshine Goku! I didn't know he was a villain in Dragon Ball.*
+_Piccolo was my most favourite character! I used to think that he would grow into one of the most powerful characters in the show and outshine Goku! I didn't know he was a villain in Dragon Ball._
 
 And in 2004, I began getting episodes from friends. I started saving them to my drive, and the collection began. I didn't have continuous episodes, mind you. I had a few here and there. I think the first set I got was the Android saga. It was the episode where the Androids appear and impale Yamcha, and the next 3 episodes until Goku is about to faint. Then, a gap, and episodes starring Vegeta, who has already revealed he's a Super Saiyan too, and now he's attacking the base of Dr. Gero. I had the episodes until the defeat of SSJ Vegeta and the rest of the Z-warriors at the hands of 17 and 18. And then, the cell stuff started with the two time machine mystery.
 
@@ -56,9 +56,9 @@ Mind you, I hadn't seen Goku vs Frieza yet, I hadn't watched the Trunks saga, or
 
 One of my oldest friends to date was a stranger back then. He randomly showed up at my door step one day and said "I heard you have the Cell Saga, I have the Buu Saga." That's how I met Sumanth, a friend I speak to almost weekly even now, 20 years later!
 
-I don't remember getting all the episodes of DBZ, but it must have been after I got a broadband connection at home. It was a measly 64kbps, but I remember that it would take 37 minutes to download one anime episode. The episodes were 320p, encoded with *rmvb*[^rmvb_format] back then. I got them from websites like freeza.nl and dbzfighters.com. The latter would become the first forum I joined online, where I would have heated discussions with people I'd come to call friends. One of them is still in touch with me today. We lovingly call you Bird Mountain Man. Oddly enough, we have still never met.
+I don't remember getting all the episodes of DBZ, but it must have been after I got a broadband connection at home. It was a measly 64kbps, but I remember that it would take 37 minutes to download one anime episode. The episodes were 320p, encoded with _rmvb_[^rmvb_format] back then. I got them from websites like freeza.nl and dbzfighters.com. The latter would become the first forum I joined online, where I would have heated discussions with people I'd come to call friends. One of them is still in touch with me today. We lovingly call you Bird Mountain Man. Oddly enough, we have still never met.
 
-I watched Dragonball later, mostly to discover what Goku's beef with Piccolo was. And boy was I shocked! Somehow, with lesser beam struggles, weaker opponents and less visually appealing fights, Dragonball made me more connected to your world. I *still* bawl when I watch Goku realize that the mysterious masked fighter at Fortune Teller Baba's tournament is his dead grandfather. That connected with me most because I wish my grandfather would return to life for just one day too.
+I watched Dragonball later, mostly to discover what Goku's beef with Piccolo was. And boy was I shocked! Somehow, with lesser beam struggles, weaker opponents and less visually appealing fights, Dragonball made me more connected to your world. I _still_ bawl when I watch Goku realize that the mysterious masked fighter at Fortune Teller Baba's tournament is his dead grandfather. That connected with me most because I wish my grandfather would return to life for just one day too.
 
 I watched DB, DBZ and DBGT several times over the next few years. Eventually, I'd go on to watch Super as well, and all the movies of course. But this isn't a letter where I want to talk about the artistic greatness of your work. There are several, amazing analyses of your work already, and I have nothing to add there. This is something more personal.
 
@@ -81,7 +81,7 @@ I watch anime and every single time I see a DBZ reference now, I tear up. There 
 Toriyama-sensei, I hope you are having fun with the Grand Kai. You deserve it. May Shenlong grant you eternal peace. And of course, I hope you get a chance to teach a dinosaur to ride a ball.[^cha_la_head_cha_la]
 
 ![My Dragon Ball Collection](/images/posts/toriyama/collection.jpg)
-*I've started collecting the rest of your work. Arale-chan is hard to find in India, but I'm going to give it my best.*
+_I've started collecting the rest of your work. Arale-chan is hard to find in India, but I'm going to give it my best._
 
 ---
 
@@ -97,13 +97,13 @@ Toriyama-sensei, I hope you are having fun with the Grand Kai. You deserve it. M
 
 [^mario_bros]: [Super Mario Bros](https://en.wikipedia.org/wiki/Super_Mario_Bros.)
 
-[^nes_contra]: This was a bootleg of the NES version of [Contra](https://en.wikipedia.org/wiki/Contra_(video_game))
+[^nes_contra]: This was a bootleg of the NES version of [Contra](<https://en.wikipedia.org/wiki/Contra_(video_game)>)
 
 [^contra_force]: [Contra Force](https://en.wikipedia.org/wiki/Contra_Force)
 
 [^tmnt_manhatten]: [Teenage Mutant Ninja Turtles III: The Manhattan Project](https://turtlepedia.fandom.com/wiki/Teenage_Mutant_Ninja_Turtles_III:_The_Manhattan_Project)
 
-[^famicom_mortal_kombat]: [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game))
+[^famicom_mortal_kombat]: [Mortal Kombat](<https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)>)
 
 [^famicom_street_fighter]: [Street Fighter 2](https://bootleggames.fandom.com/wiki/Street_Fighter#Street_Fighter_II:_The_World_Warrior)
 
@@ -113,7 +113,7 @@ Toriyama-sensei, I hope you are having fun with the Grand Kai. You deserve it. M
 
 [^super_butouden_2_unlicensed]: The international bootleg rip of the original [Dragonball Z Super Butouden 2](https://dragonball.fandom.com/wiki/Dragon_Ball_Z:_Super_But%C5%8Dden_2) didn't have a story mode, and by the looks of it, repurposed sprites and colors from other games, giving it a strange monochromatic palette for characters. [Youtube has several videos](https://www.youtube.com/watch?v=PDEiyDH0ND4) on the game, I don't find anything really noteworthy for others despite it having nostalgic value for me personally. [Here's a useful reddit post about it](https://old.reddit.com/r/Famicom/comments/173o3ha/dragon_ball_z_super_butoden_2_nes_pirate/)
 
-[^toonami_ocean_dub]: Cartoon Network India started airing Dragonball Z in 2000, and the original run was the same as the [Ocean Dub (Saban Dub) fiasco of the US.](https://dragonball.fandom.com/wiki/Ocean_Group_dubs#The_Saban_dub_(1996-1998)) So we only got the cut episodes from the Arrival of Raditz to Goku... a Super-Saiyan?
+[^toonami_ocean_dub]: Cartoon Network India started airing Dragonball Z in 2000, and the original run was the same as the [Ocean Dub (Saban Dub) fiasco of the US.](<https://dragonball.fandom.com/wiki/Ocean_Group_dubs#The_Saban_dub_(1996-1998)>) So we only got the cut episodes from the Arrival of Raditz to Goku... a Super-Saiyan?
 
 [^rmvb_format]: Because of its low bitrate, and probably because of the presence of the Real Media Player back in the early 2000s, most anime was shared in the [RMVB](https://en.wikipedia.org/wiki/RMVB) format. I remember going to buy a TV at a store armed with a thumbdrive with some RMVB files, to see if the TV would support it. Panasonic was the only one that supported it all.
 
@@ -123,4 +123,4 @@ Toriyama-sensei, I hope you are having fun with the Grand Kai. You deserve it. M
 
 [^toriyama_dead]: [Akira Toriyama, Mangaka Known for 'Dragon Ball' and 'Dr. Slump', Dies at 68](https://web.archive.org/web/20240314114841/https://japannews.yomiuri.co.jp/society/obituaries/20240308-173259/)
 
-[^cha_la_head_cha_la]: [The lyrics](https://www.daizex.com/multimedia/lyrics/jap-cha_la_head_cha_la.html) of [the Dragonball Z japanese opening](https://www.youtube.com/watch?v=VyaKCN5rljw) contain a phrase which says "If I find a dinosaur, I will teach it to ride a ball." This has since become a meme because of its wide popularity [thanks to Team Four Star.](https://teamfourstar.fandom.com/wiki/Toriyama_(Bird))
+[^cha_la_head_cha_la]: [The lyrics](https://www.daizex.com/multimedia/lyrics/jap-cha_la_head_cha_la.html) of [the Dragonball Z japanese opening](https://www.youtube.com/watch?v=VyaKCN5rljw) contain a phrase which says "If I find a dinosaur, I will teach it to ride a ball." This has since become a meme because of its wide popularity [thanks to Team Four Star.](<https://teamfourstar.fandom.com/wiki/Toriyama_(Bird)>)

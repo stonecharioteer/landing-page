@@ -7,30 +7,37 @@ Personal landing page and blog using Hugo and the PaperMod theme.
 This site has separate sections for different types of content:
 
 ### Blog (`/blog`)
+
 For personal thoughts, life experiences, and non-technical content.
 
 **How to add a blog post:**
+
 ```bash
 hugo new blog/my-new-post.md
 ```
 
-### Reading (`/reading`) 
+### Reading (`/reading`)
+
 For book reviews, reading thoughts, and literary content.
 
 **How to add a reading post:**
+
 ```bash
 hugo new reading/book-title.md
 ```
 
 ### Private/Unlisted Posts
+
 For content that should be accessible via direct URL but not listed publicly.
 
 **How to add a private post:**
+
 ```bash
 hugo new unlisted/private-post.md
 ```
 
 Then add these parameters to the frontmatter:
+
 ```yaml
 private: true
 hiddenInHomeList: true
@@ -39,12 +46,13 @@ hiddenInHomeList: true
 ## Frontmatter Requirements
 
 All posts should include:
+
 ```yaml
 ---
-title: "Post Title"
+title: 'Post Title'
 date: 2025-01-20T10:00:00Z
-description: "A clear, concise description for SEO and previews"
-tags: ["tag1", "tag2"]
+description: 'A clear, concise description for SEO and previews'
+tags: ['tag1', 'tag2']
 # For private posts only:
 private: true
 hiddenInHomeList: true
@@ -84,6 +92,7 @@ This section was written with AI assistance.
 ## Features
 
 ### Private Posts
+
 - Posts marked with `private: true` are excluded from:
   - Home page listings
   - Archive pages
@@ -93,6 +102,7 @@ This section was written with AI assistance.
 - Still accessible via direct URL for selective sharing
 
 ### SEO Optimization
+
 - All pages require `description` frontmatter
 - Proper meta tags and structured data
 - Private post handling for search engines
@@ -100,9 +110,17 @@ This section was written with AI assistance.
 ### Development
 
 **Requirements:**
+
 - Hugo v0.146.7 (extended version required)
 
+**Initialize theme submodule (after cloning):**
+
+```bash
+git submodule update --init --recursive
+```
+
 **Install Hugo Extended:**
+
 ```bash
 # On Ubuntu/Debian
 wget https://github.com/gohugoio/hugo/releases/download/v0.146.7/hugo_extended_0.146.7_linux-amd64.deb
@@ -113,24 +131,29 @@ snap install hugo --channel=extended
 ```
 
 **Start local server:**
+
 ```bash
 hugo server --buildDrafts
 ```
 
 **Build for production:**
+
 ```bash
 hugo
 ```
 
 **Test GitHub Actions workflow locally:**
+
 ```bash
 gh act -j build
 ```
+
 This runs the build job locally using Docker, testing the same environment as GitHub Actions. The upload step is automatically skipped when running locally. Generated site will be in `./public/`.
 
 ## Theme
 
 Uses [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) with custom modifications for:
+
 - Admonition system with full light/dark mode support
 - Private post filtering in listings
 - Enhanced archive layouts

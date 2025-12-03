@@ -1,9 +1,9 @@
 ---
-title: "The Sound of Music"
+title: 'The Sound of Music'
 date: 2019-12-11T00:00:00Z
-description: "The beginning of my journey with sudden sensorineural hearing loss - losing my left ear and learning to navigate a world with one functioning ear."
-tags: ["hearing-loss", "single-sided-deafness", "health", "life", "music", "snhl"]
-categories: ["Life", "Health"]
+description: 'The beginning of my journey with sudden sensorineural hearing loss - losing my left ear and learning to navigate a world with one functioning ear.'
+tags: ['hearing-loss', 'single-sided-deafness', 'health', 'life', 'music', 'snhl']
+categories: ['Life', 'Health']
 ---
 
 I don't know the first thing about music.
@@ -16,7 +16,7 @@ I read voraciously as a kid. At one point, I read 250 pages an hour. I devoured 
 
 In the 9th grade I started writing a massive series of books. It would span 9 books in all. For the next ten years I'd focus on writing books over my education.
 
-My process was simple. Wear my headphones, lose myself in my fantasy world and create stories. I *love* listening to Metallica and ACDC. I've written chapters of my books to the tune of Harbinger of Sorrow and Master of Puppets. Music lends me a trance that alcohol hasn't managed to replicate. I work best when listening to music.
+My process was simple. Wear my headphones, lose myself in my fantasy world and create stories. I _love_ listening to Metallica and ACDC. I've written chapters of my books to the tune of Harbinger of Sorrow and Master of Puppets. Music lends me a trance that alcohol hasn't managed to replicate. I work best when listening to music.
 
 I graduated in 2010, finished my bachelor's degree in Mechanical Engineering, and began my career. I had long nights at the beginning, long commutes and night shifts.
 
@@ -76,7 +76,7 @@ That wasn't very hopeful. My family was in denial. They thought my ear was comin
 
 Beethoven went deaf over the course of his life. But deafness is absolute. One ear is something else. I needed another model. I watch a lot of Stephen Colbert. I knew the man was one eared. He had lost one ear early in his life.
 
-But it didn't help much. You *can* live with one ear.
+But it didn't help much. You _can_ live with one ear.
 
 What does it feel like though?
 

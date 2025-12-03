@@ -1,10 +1,22 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 4"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 4'
 date: 2016-12-04T00:00:00Z
 description: "Day 4 of reading the Mahabharata - reflecting on dharma and adharma, questioning how the heroes knew right from wrong, reading of the dice game and Arjuna's exile in a ruined temple."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "dharma", "adharma", "dice-game", "yudhishthira", "arjuna"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'dharma',
+    'adharma',
+    'dice-game',
+    'yudhishthira',
+    'arjuna',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 How we ruin ourselves. Mankind has always fallen flat on its face when faced with the questions of Dharma.

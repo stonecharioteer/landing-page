@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 11"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 11'
 date: 2016-12-17T00:00:00Z
 description: "Day 11 of reading the Mahabharata - lamenting Duryodhana's choices, questioning why he refused peace offers from Yudhishthira, Krishna, and even Bhima."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "duryodhana", "suyodhana", "krishna", "peace", "war", "karna"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'duryodhana',
+    'suyodhana',
+    'krishna',
+    'peace',
+    'war',
+    'karna',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 Oh Suyodhana! Oh, Suyodhana!

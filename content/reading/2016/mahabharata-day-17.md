@@ -1,10 +1,24 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 17"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 17'
 date: 2016-12-25T00:00:00Z
 description: "Day 17 of reading the Mahabharata - meditating on loss in empty temples, reading of Duryodhana's final battle with Bhima, Ashwatthama's vengeance, and Gandhari's curse."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "loss", "duryodhana", "bhima", "ashwatthama", "gandhari", "curse", "temples"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'loss',
+    'duryodhana',
+    'bhima',
+    'ashwatthama',
+    'gandhari',
+    'curse',
+    'temples',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 The empty temples scare me. They stand here, stripped of their purpose by the invaders from Golkonda, Bijapur and Delhi. The idols are destroyed, nothing remains except the stories. Some temples don't even have the stories. Guides make stuff up, they tell unsuspecting travellers that there's some story here. There is, but it isn't the story the guides are feeding them.

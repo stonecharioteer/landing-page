@@ -1,9 +1,20 @@
 ---
-title: "A Year Of Rest"
+title: 'A Year Of Rest'
 date: 2020-12-04T00:00:00Z
-description: "Reflecting on a year of recovery from workaholism and hearing loss, finding gratitude, and planning a return to building projects and writing fiction."
-tags: ["hobbies", "coding", "hearing-loss", "reflection", "career", "rest", "recovery", "projects", "writing"]
-categories: ["Life", "Career"]
+description: 'Reflecting on a year of recovery from workaholism and hearing loss, finding gratitude, and planning a return to building projects and writing fiction.'
+tags:
+  [
+    'hobbies',
+    'coding',
+    'hearing-loss',
+    'reflection',
+    'career',
+    'rest',
+    'recovery',
+    'projects',
+    'writing',
+  ]
+categories: ['Life', 'Career']
 ---
 
 I have been taking it easy for a year.
@@ -14,7 +25,7 @@ I am a recovering workaholic. I used to work myself to death (and this could be 
 
 I realize how lucky I am.
 
-Firstly, because I am in a career I love, I have fumbled onto a career in programming to be honest with you. I *love* and deeply care about programming as an art. And I used to build things. Before my hearing loss, I was working on my bookshelf, among other projects, such a bot, a voice-controlled bookshelf, and a few other things.
+Firstly, because I am in a career I love, I have fumbled onto a career in programming to be honest with you. I _love_ and deeply care about programming as an art. And I used to build things. Before my hearing loss, I was working on my bookshelf, among other projects, such a bot, a voice-controlled bookshelf, and a few other things.
 
 Also, because I have been given several gifts. I grew up not really knowing what I wanted to be. I was always good with mathematics, and statistics has always been my forte, even if I don't do it for a career (yet). I had the fortune to be associated with friends who found computers fun for the sake of programming, not just because of video games. And I had the fortune of having parents who would, despite how expensive it was, buy me a computer when I turned 14.
 
@@ -35,19 +46,19 @@ Additionally, I want to learn the following things.
 
 1. **Rust**
 
-    It is high time I learn to program in a low level language, relatively speaking. I want to code in Rust.
+   It is high time I learn to program in a low level language, relatively speaking. I want to code in Rust.
 
 2. **Elixir / Erlang**
 
-    I have wanted to learn Elixir or Erlang for over 3 years now. And I am going to do that.
+   I have wanted to learn Elixir or Erlang for over 3 years now. And I am going to do that.
 
 3. **Linux Kernel Internals**
 
-    This is a topic that deeply interests me, and I want to learn more.
+   This is a topic that deeply interests me, and I want to learn more.
 
 4. **Database Internals**
 
-    One of my weakpoints is database tuning and designing for performant CRUD apps. I would like to fix that in the upcoming weeks.
+   One of my weakpoints is database tuning and designing for performant CRUD apps. I would like to fix that in the upcoming weeks.
 
 Most importantly, I am also going to write a book on MicroPython. Apress has expressed interest in publishing it, but I am severly late, due to several reasons. I need to contact them and ask if they're still interested.
 

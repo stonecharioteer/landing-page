@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 8"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 8'
 date: 2016-12-10T00:00:00Z
 description: "Day 8 of reading the Mahabharata - reading Markandeya's Ramayana in Hampi, Yudhishtira's answers to the Yaksha, Savitri's story, and Arjuna's battle in disguise."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "ramayana", "markandeya", "yaksha", "savitri", "arjuna", "disguise"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'ramayana',
+    'markandeya',
+    'yaksha',
+    'savitri',
+    'arjuna',
+    'disguise',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 There is some justice in reading Markandeya's rendition of the Ramayana, recited to the Pandavas, as I sit in Hampi. A large part of the Kishkinda Kanda is supposed to have occurred here, and I remember the stories that my grandfather told me about how Hanuman was born on Anjanadri Hill.

@@ -1,9 +1,18 @@
 ---
-title: "(Y)ear One"
+title: '(Y)ear One'
 date: 2020-09-01T00:00:00Z
-description: "One year anniversary of losing my hearing - reflecting on adaptation, family understanding, sleep challenges, accessibility, and moving forward with single-sided deafness."
-tags: ["hearing-loss", "single-sided-deafness", "health", "life", "anniversary", "accessibility", "family"]
-categories: ["Life", "Health"]
+description: 'One year anniversary of losing my hearing - reflecting on adaptation, family understanding, sleep challenges, accessibility, and moving forward with single-sided deafness.'
+tags:
+  [
+    'hearing-loss',
+    'single-sided-deafness',
+    'health',
+    'life',
+    'anniversary',
+    'accessibility',
+    'family',
+  ]
+categories: ['Life', 'Health']
 ---
 
 ![Headphones](/images/posts/hearing-loss/ear-one.jpeg)
@@ -24,15 +33,15 @@ I am grateful to her, and I do not blame her for not being able to recover the e
 
 My family has been understanding of my predicament, but I think they don't realize how much I've accepted what has happened. I am someone who doesn't believe in prayer or religion. Despite spending weeks reading the Mahabharata in the ruins of Hampi, I am not someone who believes that there is a benevolent God watching over us. It is strange to me that my family doesn't want me to say "I am single-sided deaf" or "I can't hear you".
 
-No. I will say those things. It is the truth. I *am* single-sided deaf. I cannot hear you sometimes, but I will ask you to repeat yourself. I am not weakened by this. I am merely stating facts.
+No. I will say those things. It is the truth. I _am_ single-sided deaf. I cannot hear you sometimes, but I will ask you to repeat yourself. I am not weakened by this. I am merely stating facts.
 
-Admission and acceptance of my *disability* is stage one. I cannot choose to ignore it and say all is well. I would rather you know that I have this problem, and then ask me questions about how to maneouvre about it, rather than avoid the issue and make uneducated guesses. **Ask me.** I am a teacher above all else, and teaching people what single-sided deafness is like is my way of teaching you how to speak to me.
+Admission and acceptance of my _disability_ is stage one. I cannot choose to ignore it and say all is well. I would rather you know that I have this problem, and then ask me questions about how to maneouvre about it, rather than avoid the issue and make uneducated guesses. **Ask me.** I am a teacher above all else, and teaching people what single-sided deafness is like is my way of teaching you how to speak to me.
 
 ## Sleeping
 
-It is not easy, sleeping on your one good ear and missing *all* the alarms. I have always been a deep sleeper, but I used to wake up to some sounds like thunder. But now, I sleep on my right ear, and cut off **all** sounds. I sleep in extreme silence. At times this is a gift. But I worry whether I will never hear people scream. That's a very melancholy thought but I cannot ignore it.
+It is not easy, sleeping on your one good ear and missing _all_ the alarms. I have always been a deep sleeper, but I used to wake up to some sounds like thunder. But now, I sleep on my right ear, and cut off **all** sounds. I sleep in extreme silence. At times this is a gift. But I worry whether I will never hear people scream. That's a very melancholy thought but I cannot ignore it.
 
-I wear *two* smart-bands now. Not to show off, but so that I don't miss my alarms or notifications on my phones. I have two phones since I like to separate work from my personal device.
+I wear _two_ smart-bands now. Not to show off, but so that I don't miss my alarms or notifications on my phones. I have two phones since I like to separate work from my personal device.
 
 ## Echo Location
 
@@ -58,9 +67,9 @@ I read the following books on design, and would welcome recommendations on the s
 2. Inclusive Design for Products by Prof. Jonathan Hassell
 3. Inclusive Design for Organizations by Prof. Jonathan Hassell
 
-I am very interested in accessibility now. I have been interested in design and usability for a long time, since I read *Don Norman's Design of Everyday Things*, but now I have a personal stake in this matter.
+I am very interested in accessibility now. I have been interested in design and usability for a long time, since I read _Don Norman's Design of Everyday Things_, but now I have a personal stake in this matter.
 
-I also took a late night course on *Racket* and *Scheme* by David Beazley where he discussed the SICP book. He is one of my favourite conference speakers, and his talks are so informative. I am going to write a longer post on his courses once I manage to finish the others.
+I also took a late night course on _Racket_ and _Scheme_ by David Beazley where he discussed the SICP book. He is one of my favourite conference speakers, and his talks are so informative. I am going to write a longer post on his courses once I manage to finish the others.
 
 I have also been using my time to learn Rust. I **strongly believe** that Rust will be a language I want to code in. And I am already seeing how it affects the way I think about Python code.
 

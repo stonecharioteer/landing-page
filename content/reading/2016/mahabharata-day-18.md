@@ -1,10 +1,10 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 18"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 18'
 date: 2016-12-27T00:00:00Z
-description: "Day 18 of reading the Mahabharata - nearing the culmination of the epic reading journey, reflecting on the profound lessons learned."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+description: 'Day 18 of reading the Mahabharata - nearing the culmination of the epic reading journey, reflecting on the profound lessons learned.'
+tags: ['mahabharata', 'bibek-debroy', 'reading', 'books', 'hampi', 'tungabhadra']
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 Today I went to read the Mahabharata by the Tungabhadra, and I did.

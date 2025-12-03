@@ -5,6 +5,7 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 ## Migration Status
 
 ### ✅ Completed
+
 - `archive/source/posts/life/dear-toriyama-sensei.rst` → `content/blog/2024/dear-toriyama-sensei.md` (DONE)
 - `archive/source/posts/life/learning-to-swim.rst` → `content/blog/2023/learning-to-swim.md` (DONE)
 - Swimming journey progress page → `content/pages/swimming-journey.md` (DONE)
@@ -22,36 +23,43 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - Creative writing images → `static/images/posts/writing/` (DONE)
 
 ### 🚧 In Progress
+
 - Continue with pet stories and drafts folder content
 
 ## High Priority Personal Posts
 
 ### 2024
+
 - [ ] `posts/life/dear-toriyama-sensei.rst` → `blog/2024/dear-toriyama-sensei.md` ✅ DONE
 
-### 2020  
+### 2020
+
 - [ ] `posts/life/learning-to-swim.rst` → `blog/2020/learning-to-swim.md` (Fear and growth story)
 - [ ] `posts/2020/no-leaf-clover.rst` → `blog/2020/no-leaf-clover.md` (Hearing loss journey)
 - [ ] `posts/2020/ear-one.rst` → `blog/2020/ear-one.md` (Hearing loss details)
 - [ ] `posts/2020/a-year-of-rest.rst` → `blog/2020/a-year-of-rest.md` (Life reflection)
 
 ### 2021
+
 - [ ] `posts/2021/2021-03-30-do-the-job-you-hate.md` → `blog/2021/do-the-job-you-hate.md` (Already MD)
 - [ ] `posts/2021/2021-06-03-returning-to-work.md` → `blog/2021/returning-to-work.md` (Already MD)
 - [ ] `posts/2021/empathy-in-tech.rst` → `blog/2021/empathy-in-tech.md` (RST)
 - [ ] `posts/2021/reflections-on-doing-more.rst` → `blog/2021/reflections-on-doing-more.md` (RST)
 
 ### 2022
+
 - [ ] `posts/2022/bipolar.rst` → `blog/2022/bipolar.md` (Mental health)
 - [ ] `posts/2022/onward.rst` → `blog/2022/onward.md` (Life changes)
 - [ ] `posts/2022/no-blog.rst` → `blog/2022/no-blog.md` (Meta post)
 
 ### 2025
+
 - [ ] `posts/2025/leaving-chainsafe.rst` → `blog/2025/leaving-chainsafe.md` (Career transition)
 
 ## Mahabharata Reading Journey (2016-2017)
 
 ### 2016 - Daily Reading Posts (All RST)
+
 - [ ] `posts/2016/2016-12-01-mahabharata-day-01.rst` → `reading/2016/mahabharata-day-01.md`
 - [ ] `posts/2016/2016-12-02-mahabharata-day-02.rst` → `reading/2016/mahabharata-day-02.md`
 - [ ] `posts/2016/2016-12-03-mahabharata-day-03.rst` → `reading/2016/mahabharata-day-03.md`
@@ -74,15 +82,18 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - [ ] `posts/2016/2016-12-29-mahabharata-day-20.rst` → `reading/2016/mahabharata-day-20.md`
 
 ### 2017
+
 - [ ] `posts/2017/2017-03-22-debroy-letter.rst` → `reading/2017/debroy-letter.md`
 - [ ] `posts/2017/harivamsha.rst` → `reading/2017/harivamsha.md`
 
-### 2021  
+### 2021
+
 - [ ] `posts/2021/2021-03-10-mahabharata-instagram.rst` → `reading/2021/mahabharata-instagram.md`
 
 ## Book Reviews and Reading Content
 
 ### Book Catalogue
+
 - [ ] `reading/catalogue/books/Debroy-Bibek--Harivamsha.rst` → `reading/catalogue/harivamsha-debroy.md`
 - [ ] `reading/catalogue/books/Debroy-Bibek--The-Mahabharata.rst` → `reading/catalogue/mahabharata-debroy.md`
 - [ ] `reading/catalogue/books/Nair-Madhavan--Rocketing-Through-the-Skies.rst` → `reading/catalogue/rocketing-through-skies.md`
@@ -92,26 +103,30 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - [ ] `reading/catalogue/books/Thapar-Romila--On-Nationalism.rst` → `reading/catalogue/on-nationalism-thapar.md`
 - [ ] `reading/catalogue/books/Tharoor-Shashi--The-Battle-of-Belonging.rst` → `reading/catalogue/battle-of-belonging-tharoor.md`
 
-### Bibek Debroy Letters  
+### Bibek Debroy Letters
+
 - [ ] `reading/bibek-debroy/letters/harivamsha.rst` → `reading/correspondence/debroy-harivamsha-letter.md`
 - [ ] `reading/bibek-debroy/letters/ramayana.rst` → `reading/correspondence/debroy-ramayana-letter.md`
 
 ## Creative Writing
 
 ### Prose
+
 - [ ] `writing/random/the-colour-of-hate.rst` → `writing/prose/the-colour-of-hate.md`
 - [ ] `writing/random/how-do-i-read-of-thee-o-rama.rst` → `writing/prose/how-do-i-read-of-thee.md`
 - [ ] `writing/random/if-i-adopt-an-elephant/index.rst` → `writing/prose/if-i-adopt-an-elephant.md`
 
 ## Pet/Family Posts
+
 - [ ] `_drafts/ganga.rst` → `blog/2020/ganga.md` (Pet story)
-- [ ] `_drafts/subbi.rst` → `blog/2020/subbi.md` (Pet story)  
+- [ ] `_drafts/subbi.rst` → `blog/2020/subbi.md` (Pet story)
 - [ ] `_drafts/vibhi.rst` → `blog/2020/vibhi.md` (Pet story)
 - [ ] `_drafts/yamuna.rst` → `blog/2020/yamuna.md` (Pet story)
 
 ## High-Value Drafts
 
 ### Personal Stories
+
 - [ ] `_drafts/2020-03-02-reading-2001-space-odyssey.md` → `reading/2020/2001-space-odyssey.md` (Already MD)
 - [ ] `_drafts/india/2017-03-16-home.md` → `blog/2017/home.md` (Already MD)
 - [ ] `_drafts/india/2017-03-17-debroy-tears.md` → `reading/2017/debroy-tears.md` (Already MD)
@@ -120,6 +135,7 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - [ ] `_drafts/india/2017-03-25-debroy-autograph.md` → `reading/2017/debroy-autograph.md` (Already MD)
 
 ### Ramayana Reading Series
+
 - [ ] `_drafts/india/2018-03-29-ramayana-day-01.md` → `reading/2018/ramayana-day-01.md` (Already MD)
 - [ ] `_drafts/india/2018-03-30-ramayana-day-02.md` → `reading/2018/ramayana-day-02.md` (Already MD)
 - [ ] `_drafts/india/2018-03-31-ramayana-day-03.md` → `reading/2018/ramayana-day-03.md` (Already MD)
@@ -127,6 +143,7 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - [ ] `_drafts/india/2018-04-05-ramayana-day-05.md` → `reading/2018/ramayana-day-05.md` (Already MD)
 
 ## Career/Life Philosophy
+
 - [ ] `posts/life/career/learning.rst` → `blog/2021/on-learning.md` (RST)
 - [ ] `posts/life/career/memories-of-a-shopfloor.rst` → `blog/2020/memories-of-a-shopfloor.md` (RST)
 - [ ] `posts/life/why-do-i-swim.rst` → `blog/2020/why-do-i-swim.md` (RST)
@@ -135,6 +152,7 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 ## Assets to Migrate
 
 ### Images
+
 - [ ] `_static/images/posts/toriyama/` → `static/images/posts/toriyama/` (Dragon Ball images)
 - [ ] `_static/images/posts/swimming/` → `static/images/posts/swimming/` (Swimming journey photos)
 - [ ] `_static/images/posts/india/` → `static/images/posts/india/` (Mahabharata/Debroy photos)
@@ -142,6 +160,7 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - [ ] `_static/images/posts/the-colour-of-hate/` → `static/images/posts/writing/` (Creative writing assets)
 
 ## Skip - Already in Tech Blog or Tech-Focused
+
 - `posts/2020/2020-02-29-pip-configuration.md` (Tech)
 - `posts/2020/2020-05-23-flask-workshop.md` (Tech)
 - `posts/2020/2020-07-04-jekyll.md` (Tech)
@@ -150,11 +169,12 @@ This document tracks all posts being migrated from the old Sphinx blog to the Hu
 - `posts/2021/2021-06-03-returning-to-work.md` (Tech - Raspberry Pi clusters)
 - `posts/2021/empathy-in-tech.rst` (Tech - Career/workplace)
 - `posts/2021/reflections-on-doing-more.rst` (Tech - Career focused)
-- `posts/2021/learning-golang.rst` (Tech)  
+- `posts/2021/learning-golang.rst` (Tech)
 - `posts/2022/learning-rust.rst` (Tech)
 - `posts/2022/vagrant.rst` (Tech)
 
 ## Migration Notes
+
 - All posts should be marked as `draft: true` in frontmatter
 - RST files need full conversion to Markdown with proper frontmatter
 - MD files need frontmatter updates and path corrections

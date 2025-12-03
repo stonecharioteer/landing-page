@@ -1,8 +1,8 @@
 ---
-title: "Swimming Journey"
-description: "My progress learning to swim, overcoming submechanophobia and building endurance"
+title: 'Swimming Journey'
+description: 'My progress learning to swim, overcoming submechanophobia and building endurance'
 date: 2023-02-01T00:00:00Z
-url: "/swimming-journey/"
+url: '/swimming-journey/'
 ---
 
 This page tracks my journey learning to swim, starting in February 2023. You can read the full story of [how I learned to overcome my fears and start swimming]({{< ref "/writing/2023/learning-to-swim" >}}).
@@ -29,7 +29,7 @@ From being terrified to get past the 15m mark to swimming 1000m sessions - here'
 ## Key Milestones
 
 - **February 2023**: Started lessons, couldn't go past 15m mark
-- **May 2023**: First time diving into deep end with coach support  
+- **May 2023**: First time diving into deep end with coach support
 - **July 2023**: Returned after break, building consistency at 25m laps
 - **August 2023**: Major breakthrough - 35m laps, 700m total sessions
 - **November 2023**: First ocean swimming in Maldives - navigated 30ft+ deep water calmly

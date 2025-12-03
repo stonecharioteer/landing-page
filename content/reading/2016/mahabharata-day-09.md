@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 9"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 9'
 date: 2016-12-15T00:00:00Z
 description: "Day 9 of reading the Mahabharata - interactions with locals and tour guides, reflecting on Hampi's destruction and drawing parallels to Dhritarashtra's blindness to war's cost."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "vijayanagara", "temples", "war", "dhritarashtra", "krishna", "destruction"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'vijayanagara',
+    'temples',
+    'war',
+    'dhritarashtra',
+    'krishna',
+    'destruction',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 This rock that I sit on is a picnic spot, and it suits the purpose really. Many locals come here, and their kids are curious about what I'm doing here.

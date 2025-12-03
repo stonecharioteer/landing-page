@@ -1,9 +1,18 @@
 ---
-title: "No Leaf Clover"
+title: 'No Leaf Clover'
 date: 2020-02-02T00:00:00Z
-description: "Part 2 of my hearing loss journey - learning to adapt to single-sided deafness, getting hearing aids, and finding ways to move forward with one working ear."
-tags: ["hearing-loss", "single-sided-deafness", "health", "life", "inclusion", "accessibility", "hearing-aid"]
-categories: ["Life", "Health"]
+description: 'Part 2 of my hearing loss journey - learning to adapt to single-sided deafness, getting hearing aids, and finding ways to move forward with one working ear.'
+tags:
+  [
+    'hearing-loss',
+    'single-sided-deafness',
+    'health',
+    'life',
+    'inclusion',
+    'accessibility',
+    'hearing-aid',
+  ]
+categories: ['Life', 'Health']
 ---
 
 I do not believe in luck. There is no such thing. Things happen and we must accept them or reject them. What we do defines us.
@@ -20,7 +29,7 @@ I have cousins and aunts tell me to stop speaking this way. That I'm being a foo
 
 I am not. I'm stating the truth. My left ear is **dead.**
 
-*And that's *okay.**
+*And that's *okay.\*\*
 
 One month after the hearing loss I was scheduled to speak at PyCon India. It was something I had wanted to do for over a year. I wondered if I had to cancel now that I couldn't hear from one ear, and I could barely walk because my balance was affected.
 
@@ -32,7 +41,7 @@ We got a dog soon after. She's a tiny thing that is growing fast. I used to be s
 
 Then, I began going to Yoga classes. The man teaching me yoga used to sell me books when I was a kid. I'd come full circle.
 
-But I was still broken. I was still... *damaged.* I could still not hear too well in a meeting room.
+But I was still broken. I was still... _damaged._ I could still not hear too well in a meeting room.
 
 I could still not use headphones or listen to music. I used to listen to 8 different podcasts. I stopped listening to all of them. I stopped listening.
 
@@ -103,7 +112,7 @@ However, that does not stop me. It does not have to.
 I picked up a "no leaf clover". What I choose to do with it is how I define who I am.
 
 {{< note title="Update - 15 July, 2020" >}}
-The hearing aid does not help me hear everything. It gives me *a sense* of sounds to my left. It's very, very low, because of how much nerve damage there has been to my ear. That has not dismayed me, and WFH is a blessing.
+The hearing aid does not help me hear everything. It gives me _a sense_ of sounds to my left. It's very, very low, because of how much nerve damage there has been to my ear. That has not dismayed me, and WFH is a blessing.
 {{< /note >}}
 
 {{< note title="Update - 1 September, 2020" >}}

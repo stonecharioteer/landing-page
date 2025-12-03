@@ -1,16 +1,14 @@
 ---
 title: 'Nope'
-date: "2025-01-01T13:31:38+05:30"
-type: "page"
+date: '2025-01-01T13:31:38+05:30'
+type: 'page'
 description: "Sorry, I'm not opening that link."
 ---
-
 
 Hello!
 
 I’m not going to open the link you shared because it is to a social network or
-short media platform. I’ve been off some or all of these platforms since Jan
-2023.
+short media platform. I’ve been off some or all of these platforms since Jan 2023.
 
 As of Jan 2025, this includes Instagram, X/Twitter, Facebook, Reddit, TikTok and
 YouTube. I refuse to open links to any of these, and this list will expand to

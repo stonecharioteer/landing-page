@@ -1,10 +1,23 @@
 ---
-title: "Reading the Mahabharata by the Tungabhadra - Day 3"
+title: 'Reading the Mahabharata by the Tungabhadra - Day 3'
 date: 2016-12-03T00:00:00Z
 description: "Day 3 of reading the Mahabharata - the land belongs to the monkeys, wind howls like Vayu watching as I read of Bhima's battles, Panchali's wedding, and the burning of Khandiva forest."
-tags: ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "bhima", "panchali", "arjuna", "subhadra", "khandiva", "vayu"]
-categories: ["Reading", "Mahabharata"]
-series: "mahabharata-reading"
+tags:
+  [
+    'mahabharata',
+    'bibek-debroy',
+    'reading',
+    'books',
+    'hampi',
+    'bhima',
+    'panchali',
+    'arjuna',
+    'subhadra',
+    'khandiva',
+    'vayu',
+  ]
+categories: ['Reading', 'Mahabharata']
+series: 'mahabharata-reading'
 ---
 
 This land belongs to the monkeys. It is theirs to frolic in, it is theirs to own. We have somehow faltered here, and they know it far better than we.

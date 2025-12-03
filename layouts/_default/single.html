@@ -14,19 +14,24 @@
       </span>
       {{- end }}
     </h1>
-    {{- if .Description }}
-    <div class="post-description">
-      {{ .Description }}
-    </div>
-    {{- end }}
-    {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
-      {{- partial "translation_list.html" . -}}
-      {{- partial "edit_post.html" . -}}
-      {{- partial "post_canonical.html" . -}}
-    </div>
-    {{- end }}
+{{- if .Description }}
+<div class="post-description">
+  {{ .Description }}
+</div>
+{{- end }}
+{{- if not (.Param "hideMeta") }}
+<div class="post-meta">
+  {{- partial "post_meta.html" . -}}
+  {{- if and (not .Lastmod.IsZero) (ne .Lastmod.Unix .Date.Unix) }}
+  <span class="lastmod">
+    Updated {{ .Lastmod.Format (default "January 2, 2006" site.Params.DateFormat) }}
+  </span>
+  {{- end }}
+  {{- partial "translation_list.html" . -}}
+  {{- partial "edit_post.html" . -}}
+  {{- partial "post_canonical.html" . -}}
+</div>
+{{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}

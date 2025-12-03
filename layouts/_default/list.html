@@ -75,6 +75,11 @@ else if $term }} {{- $class = "post-entry tag-entry" }} {{- end }}
   {{- end }} {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
+    {{- if and (not .Lastmod.IsZero) (ne .Lastmod.Unix .Date.Unix) }}
+    <span class="lastmod">
+      Updated {{ .Lastmod.Format (default "January 2, 2006" site.Params.DateFormat) }}
+    </span>
+    {{- end }}
     {{- with (.GetTerms "tags") }}
     <ul class="post-tags">
       {{- range . }}

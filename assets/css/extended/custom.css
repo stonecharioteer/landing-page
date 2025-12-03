@@ -269,6 +269,20 @@
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
+.post-meta .lastmod,
+.entry-footer .lastmod {
+  color: var(--secondary);
+  font-size: 14px;
+  margin-left: 10px;
+  white-space: nowrap;
+}
+
+.post-meta .lastmod::before,
+.entry-footer .lastmod::before {
+  content: "·";
+  margin-right: 8px;
+}
+
 .post-single .post-tags a:hover {
   transform: translateY(-1px);
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.05);

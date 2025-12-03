@@ -216,3 +216,128 @@
 .dark .admonition.ai .admonition-content {
   color: #ffedd5;
 }
+
+/* Colorful tag pills on list pages */
+.post-entry .post-tags {
+  gap: 8px;
+}
+
+.post-entry .post-tags a {
+  border: 1px solid transparent;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.post-entry .post-tags a:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.05);
+}
+
+.post-entry .post-tags li:nth-child(4n + 1) a {
+  background: #eef2ff;
+  color: #3730a3;
+  border-color: #c7d2fe;
+}
+
+.post-entry .post-tags li:nth-child(4n + 2) a {
+  background: #ecfeff;
+  color: #0f766e;
+  border-color: #a5f3fc;
+}
+
+.post-entry .post-tags li:nth-child(4n + 3) a {
+  background: #fef3c7;
+  color: #92400e;
+  border-color: #fde68a;
+}
+
+.post-entry .post-tags li:nth-child(4n + 4) a {
+  background: #fef2f2;
+  color: #b91c1c;
+  border-color: #fecdd3;
+}
+
+.post-single .post-tags {
+  gap: 10px;
+}
+
+.post-single .post-tags a {
+  border: 1px solid transparent;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.post-single .post-tags a:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.05);
+}
+
+.post-single .post-tags li:nth-child(4n + 1) a {
+  background: #eef2ff;
+  color: #3730a3;
+  border-color: #c7d2fe;
+}
+
+.post-single .post-tags li:nth-child(4n + 2) a {
+  background: #ecfeff;
+  color: #0f766e;
+  border-color: #a5f3fc;
+}
+
+.post-single .post-tags li:nth-child(4n + 3) a {
+  background: #fef3c7;
+  color: #92400e;
+  border-color: #fde68a;
+}
+
+.post-single .post-tags li:nth-child(4n + 4) a {
+  background: #fef2f2;
+  color: #b91c1c;
+  border-color: #fecdd3;
+}
+
+.dark .post-entry .post-tags a {
+  color: #e5e7eb;
+  border-color: rgba(255, 255, 255, 0.08);
+  box-shadow: none;
+}
+
+.dark .post-entry .post-tags li:nth-child(4n + 1) a {
+  background: rgba(99, 102, 241, 0.18);
+}
+
+.dark .post-entry .post-tags li:nth-child(4n + 2) a {
+  background: rgba(16, 185, 129, 0.18);
+}
+
+.dark .post-entry .post-tags li:nth-child(4n + 3) a {
+  background: rgba(251, 191, 36, 0.2);
+}
+
+.dark .post-entry .post-tags li:nth-child(4n + 4) a {
+  background: rgba(248, 113, 113, 0.2);
+}
+
+.dark .post-single .post-tags a {
+  color: #e5e7eb;
+  border-color: rgba(255, 255, 255, 0.08);
+  box-shadow: none;
+}
+
+.dark .post-single .post-tags li:nth-child(4n + 1) a {
+  background: rgba(99, 102, 241, 0.18);
+}
+
+.dark .post-single .post-tags li:nth-child(4n + 2) a {
+  background: rgba(16, 185, 129, 0.18);
+}
+
+.dark .post-single .post-tags li:nth-child(4n + 3) a {
+  background: rgba(251, 191, 36, 0.2);
+}
+
+.dark .post-single .post-tags li:nth-child(4n + 4) a {
+  background: rgba(248, 113, 113, 0.2);
+}

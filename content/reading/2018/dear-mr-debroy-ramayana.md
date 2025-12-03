@@ -1,5 +1,5 @@
 ---
-title: "Reading Bibek Debroy's Translation of the Valmiki Ramayana by the Tungabhadra"
+title: 'Dear Mr. Debroy: Reading the Valmiki Ramayana at Hampi'
 date: 2018-05-26
 lastmod: 2025-12-03
 author: 'Vinay Keerthi'
@@ -111,7 +111,7 @@ _Do you not understand that in one moment, knowing what your heart - his mother'
 
 Her vision & heart masked by Manthara's words, Kaikeyee throws a fit & has Dasaratha begging her to tell him what she desires. Such an evil desire. Make Bharata the Crown Prince instead of Rama. Exile Rama to the forests to live as an ascetic for 14 years. Oh Ajaputra! How your heart must have quivered hearing that beautiful one utter these words!
 
-How you must have cried, Raghava, recalling the curse of those blind, old brahmins! In your haste, you Killed their son, thinking him to be a forest Creature, a deer. On Dasaratha! How does one begin to comprehend your sadness?
+How you must have cried, Raghava, recalling the curse of those blind, old brahmins! In your haste, you Killed their son, thinking him to be a forest creature, a deer. On Dasaratha! How does one begin to comprehend your sadness?
 
 Oh Valmiki! Merely writing about these characters, my pen quivers. I can't seem to spell words correctly, my thoughts & emotions race as I do so. How did you compose this magnificent tale? Adi Kavya indeed.
 

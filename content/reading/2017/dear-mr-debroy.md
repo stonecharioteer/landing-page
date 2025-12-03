@@ -1,5 +1,5 @@
 ---
-title: 'Dear Mr. Debroy'
+title: 'Dear Mr. Debroy: Reading the Mahabharata at Hampi'
 date: 2017-03-22T00:00:00Z
 description: 'A heartfelt letter to Bibek Debroy thanking him for his masterful translation of the Mahabharata - reflecting on my 20-day reading journey by the Tungabhadra at Hampi.'
 tags:

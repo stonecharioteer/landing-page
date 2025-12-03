@@ -18,6 +18,7 @@ params:
   defaultTheme: light
   disableThemeToggle: true
   ShowReadingTime: true
+  ShowWordCount: true
   profileMode:
     enabled: true
     title: 'Vinay Keerthi (stonecharioteer)' # optional default will be site title

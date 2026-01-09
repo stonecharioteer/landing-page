@@ -16,7 +16,7 @@ gave me this fool, who we used to call "kitty" until he got home.
 My friend's cat was named Yudishtira. My mom took that as inspiration and named
 kitty Vibhishana. We mostly call him Vibhi or Vibhu.
 
-He's my son. The apple of my eye. Whatever other cliche you want to throw our
+He's my son. The apple of my eye. Whatever other cliche you want to throw out
 there.
 
 I cannot explain how much I love Vibhi. It is stupid. He is a very troublesome

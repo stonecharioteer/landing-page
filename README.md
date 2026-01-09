@@ -49,10 +49,10 @@ All posts should include:
 
 ```yaml
 ---
-title: 'Post Title'
+title: "Post Title"
 date: 2025-01-20T10:00:00Z
-description: 'A clear, concise description for SEO and previews'
-tags: ['tag1', 'tag2']
+description: "A clear, concise description for SEO and previews"
+tags: ["tag1", "tag2"]
 # For private posts only:
 private: true
 hiddenInHomeList: true
@@ -76,17 +76,13 @@ This site supports rich admonitions (callout boxes) for enhanced content:
 ### Usage
 
 ```markdown
-{{< note title="Custom Title" >}}
-Your note content here. Supports **markdown**.
+{{< note title="Custom Title" >}} Your note content here. Supports **markdown**.
 {{< /note >}}
 
-{{< quote title="Inspiration" footer="Author Name" >}}
-Quote text here
+{{< quote title="Inspiration" footer="Author Name" >}} Quote text here
 {{< /quote >}}
 
-{{< ai >}}
-This section was written with AI assistance.
-{{< /ai >}}
+{{< ai >}} This section was written with AI assistance. {{< /ai >}}
 ```
 
 ## Features
@@ -148,11 +144,14 @@ hugo
 gh act -j build
 ```
 
-This runs the build job locally using Docker, testing the same environment as GitHub Actions. The upload step is automatically skipped when running locally. Generated site will be in `./public/`.
+This runs the build job locally using Docker, testing the same environment as
+GitHub Actions. The upload step is automatically skipped when running locally.
+Generated site will be in `./public/`.
 
 ## Theme
 
-Uses [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) with custom modifications for:
+Uses [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) with
+custom modifications for:
 
 - Admonition system with full light/dark mode support
 - Private post filtering in listings

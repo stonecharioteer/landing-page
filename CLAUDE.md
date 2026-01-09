@@ -4,7 +4,8 @@ Personal landing page and blog using Hugo and the PaperMod theme.
 
 ## Archive Migration Instructions
 
-This project is migrating personal content from an old Sphinx blog at `../archive/`.
+This project is migrating personal content from an old Sphinx blog at
+`../archive/`.
 
 ### Migration Process
 
@@ -37,8 +38,10 @@ This project is migrating personal content from an old Sphinx blog at `../archiv
 - **Status**: Complete with navigation fixes
 - **Content**: All 20 daily posts from 2016 reading journey at Hampi
 - **Navigation**: Fixed cross-post URLs for seamless reading experience
-- **Location**: `content/reading/2016/mahabharata-day-01.md` through `mahabharata-day-20.md`
-- **Features**: Consistent Hugo ref shortcodes for reliable post-to-post navigation
+- **Location**: `content/reading/2016/mahabharata-day-01.md` through
+  `mahabharata-day-20.md`
+- **Features**: Consistent Hugo ref shortcodes for reliable post-to-post
+  navigation
 
 ### ✅ Personal Stories
 
@@ -66,10 +69,10 @@ This project is migrating personal content from an old Sphinx blog at `../archiv
 
 ```yaml
 ---
-title: 'Post Title'
+title: "Post Title"
 date: 2024-03-19T00:00:00Z
-description: 'Post description'
-tags: ['tag1', 'tag2', 'personal']
+description: "Post description"
+tags: ["tag1", "tag2", "personal"]
 draft: true
 ---
 ```
@@ -87,8 +90,7 @@ draft: true
 **Markdown Images:**
 
 ```markdown
-![Description](/images/posts/example.jpg)
-_Caption text_
+![Description](/images/posts/example.jpg) _Caption text_
 ```
 
 See `todo.md` for complete file-by-file migration tracking.

@@ -1,17 +1,19 @@
 ---
-date: '2025-04-21T11:49:34+05:30'
+date: "2025-04-21T11:49:34+05:30"
 draft: false
-title: 'GN Devy - Mahabharata: The Epic and the Nation'
-description: 'A thoughtful exploration of the Mahabharata as both epic literature and commentary on nation-building in ancient India'
+title: "GN Devy - Mahabharata: The Epic and the Nation"
+description:
+  "A thoughtful exploration of the Mahabharata as both epic literature and
+  commentary on nation-building in ancient India"
 tags:
-  - 'reading'
-  - 'mythology'
-  - 'india'
+  - "reading"
+  - "mythology"
+  - "india"
 cover:
-  image: '/images/books/mahabharata-the-epic-and-the-nation.jpg'
-  alt: 'Mahabharata: The Epic and the Nation'
+  image: "/images/books/mahabharata-the-epic-and-the-nation.jpg"
+  alt: "Mahabharata: The Epic and the Nation"
 images:
-  - '/images/books/mahabharata-the-epic-and-the-nation.jpg'
+  - "/images/books/mahabharata-the-epic-and-the-nation.jpg"
 ShowToc: true
 ---
 
@@ -36,9 +38,10 @@ I hadn't heard of the Garasiya Bhils or their version of the Mahabharata.
 Imagine my surprise when Devy claims that their version is possibly _older_.
 
 I was most surprised that he constantly puts across an idea that Krishna
-Dvaipayana "Krishna of the Dark Island" (my most favourite way of referring to this
-person now) and Vyasa of the Vedas could have perhaps been two separate individuals.
-Now that's an idea that will turn some stomachs no doubt! (And I'm here for it)
+Dvaipayana "Krishna of the Dark Island" (my most favourite way of referring to
+this person now) and Vyasa of the Vedas could have perhaps been two separate
+individuals. Now that's an idea that will turn some stomachs no doubt! (And I'm
+here for it)
 
 ## Highlights
 
@@ -50,52 +53,53 @@ Now that's an idea that will turn some stomachs no doubt! (And I'm here for it)
 > place this narrative in a sensible textual form by collecting the vast
 > repository of manuscripts from different parts of India, spread over places of
 > traditional learning as apart from each other as Manipur and Madras, Varanasi
-> and Tanjore, Sankheda and Kolkata. They faced the complicated task of comparing
-> verse by verse and phrase by phrase the 1,259 handwritten manuscripts, scribed
-> in different centuries and diverse in writing styles and script conventions.
-> Beginning in April 1919, they could complete the project only forty-seven years
-> later, in September 1966, and they produced a printed version of the epic
-> containing 89,000 verses, with notes and editorial comments, with the material
-> excluded from the main text placed in footnotes. The collected, edited, and
-> carefully compared ‘critical version’ was published in nineteen volumes spread
-> over 15,000 demi-quarto pages. Just as the Kurukshetra war had a series of
-> warriors as generals—Bhishma, Drona, Karna, and Ashwathama—the project had a
-> series of extraordinary editors such as V. S. Sukthankar, S. K. Belvalkar, S. K.
-> De, and R. N. Dandekar._
+> and Tanjore, Sankheda and Kolkata. They faced the complicated task of
+> comparing verse by verse and phrase by phrase the 1,259 handwritten
+> manuscripts, scribed in different centuries and diverse in writing styles and
+> script conventions. Beginning in April 1919, they could complete the project
+> only forty-seven years later, in September 1966, and they produced a printed
+> version of the epic containing 89,000 verses, with notes and editorial
+> comments, with the material excluded from the main text placed in footnotes.
+> The collected, edited, and carefully compared ‘critical version’ was published
+> in nineteen volumes spread over 15,000 demi-quarto pages. Just as the
+> Kurukshetra war had a series of warriors as generals—Bhishma, Drona, Karna,
+> and Ashwathama—the project had a series of extraordinary editors such as V. S.
+> Sukthankar, S. K. Belvalkar, S. K. De, and R. N. Dandekar._
 
 The Bhandarkar Oriental Insitute's Critical Edition is the one that Bibek Debroy
-translated, and hence the one I've read and recommend. I love that Devy explained
-how this edition even came to be.
+translated, and hence the one I've read and recommend. I love that Devy
+explained how this edition even came to be.
 
 #### Page 41 @ 20 April 2025 09:32:05 PM
 
 > _The plot of the Mahabharata of the Garasiya Bhils and the plot in the
 > ‘critical edition’ Mahabharata have shared elements, but the differences are
-> quite striking. For instance, the vastra haran, disrobing of Draupadi, does not
-> occur in the tribal epic. As against the sarpa yagnya in the ‘critical edition’,
-> the tribal text depicts Vasuki, the king of serpents, as being far more heroic
-> and triumphant than any of the Kuru heroes. In the Bhili version, Vasuki has a
-> romping affair with Draupadi, and Arjuna is depicted as a mute spectator tied to
-> the bedpost while Vasuki and Draupadi are in bed. 10 There is no Bhagavad Gita
-> in the tribal epic, though Krishna as a character, and an important one, is
-> present. Neither the Satyavan–Savitri story, nor the Nala–Damayanti story, and
-> not even the Ruru– Pramadvara story are to be found in the Bhili Mahabharata .
-> The rituals associated with its recitation and performance clearly indicate that
-> the Bhili Mahabharata belongs to the realm of the sacred in their culture._
+> quite striking. For instance, the vastra haran, disrobing of Draupadi, does
+> not occur in the tribal epic. As against the sarpa yagnya in the ‘critical
+> edition’, the tribal text depicts Vasuki, the king of serpents, as being far
+> more heroic and triumphant than any of the Kuru heroes. In the Bhili version,
+> Vasuki has a romping affair with Draupadi, and Arjuna is depicted as a mute
+> spectator tied to the bedpost while Vasuki and Draupadi are in bed. 10 There
+> is no Bhagavad Gita in the tribal epic, though Krishna as a character, and an
+> important one, is present. Neither the Satyavan–Savitri story, nor the
+> Nala–Damayanti story, and not even the Ruru– Pramadvara story are to be found
+> in the Bhili Mahabharata . The rituals associated with its recitation and
+> performance clearly indicate that the Bhili Mahabharata belongs to the realm
+> of the sacred in their culture._
 
 #### Page 41 @ 20 April 2025 09:46:31 PM
 
 > _My idea of what an oral epic is, or can be, is shaped by the Bhili
 > Mahabharata . I have read the documented text carefully and seen it performed
-> several times. I have also spoken to the members of the community, who undertake
-> years of training to perform the epic. It is clear to me that theirs is not a
-> ‘vulgarization’ or a folk adaptation of the Mahabharata . It is more likely to
-> be an earlier version of the epic, in existence prior to the compendious and
-> inclusive corpus prepared by Vyasa some two millennia ago, free of the erotic
-> portions of the narrative not relevant to the main story._
+> several times. I have also spoken to the members of the community, who
+> undertake years of training to perform the epic. It is clear to me that theirs
+> is not a ‘vulgarization’ or a folk adaptation of the Mahabharata . It is more
+> likely to be an earlier version of the epic, in existence prior to the
+> compendious and inclusive corpus prepared by Vyasa some two millennia ago,
+> free of the erotic portions of the narrative not relevant to the main story._
 
-This quote and the previous one teach me that I need to read alternate versions of
-the Mahabharata as well, not just the Critical Edition.
+This quote and the previous one teach me that I need to read alternate versions
+of the Mahabharata as well, not just the Critical Edition.
 
 #### Page 42 @ 20 April 2025 09:47:14 PM
 
@@ -106,55 +110,59 @@ the Mahabharata as well, not just the Critical Edition.
 
 > _And yet, we like to believe that we know the Mahabharata ._
 
-I chuckled as I read these sections. The number of people who think they know the
-Mahabharata just from reading Rajaji or from watching TV is hilarious indeed.
+I chuckled as I read these sections. The number of people who think they know
+the Mahabharata just from reading Rajaji or from watching TV is hilarious
+indeed.
 
 #### Page 45 @ 20 April 2025 10:00:09 PM
 
 > _The Mahabharata tells us about the change taking place in ancient India over
-> an extended period of time, spanning several centuries. But, if it does so, what
-> indeed was the nature of the epistemic change that interested the Mahabharata?_
+> an extended period of time, spanning several centuries. But, if it does so,
+> what indeed was the nature of the epistemic change that interested the
+> Mahabharata?_
 
 This one quote summarizes what this book is about.
 
 #### Page 66 @ 20 April 2025 10:11:58 PM
 
 > _[I]t is necessary to consider the relatively late arrival of Lord Krishna in
-> the Hindu pantheon. He was not part of the Vedic pantheon, which gave primacy to
-> Surya, Indra, Varuna, and Agni. Similarly, the darshanas, schools of ancient and
-> classical Indian philosophy, do not mention Krishna in any major discussion._
+> the Hindu pantheon. He was not part of the Vedic pantheon, which gave primacy
+> to Surya, Indra, Varuna, and Agni. Similarly, the darshanas, schools of
+> ancient and classical Indian philosophy, do not mention Krishna in any major
+> discussion._
 >
-> _Towards the end of the first millennium, about eleven centuries before our time,
-> Adi Shankara prepared a massive commentary on the Gita, the Gita Bhashya . Since
-> then, during the last thousand years, Krishna as a deity rose in eminence among
-> the medieval sects. This was reflected in iconography, theatre, dance, painting,
-> music, and literature. The Vaishnava Acharyas, Ramanuja and Madhava, gave the
-> Bhagavad Gita centrality in their philosophical expositions. Poets like Jayadeva
-> composed the Gita Govinda with lyrics of haunting charm on the life of Krishna.
-> Religious rituals related to Krishna emerged and were consolidated as large mass
-> events. Apparently secular community festivals such as the Raas dance during
-> Navaratri and Holi placed Krishna at the heart of the celebrations. A great poet
-> like Mira composed immortal poems pining for Krishna. The continued engagement
-> with the Gita reached its high during the twentieth century. Major social,
-> cultural, and spiritual leaders alluded to it, wrote about it, translated it,
-> and offered compendious commentaries. These include Swami Vivekananda, Lokmanya
-> Tilak, Sri Aurobindo, Mahatma Gandhi, Vinoba Bhave, and Sarvepalli
-> Radhakrishnan. In modern India, the Gita has acquired a special status as a
-> definitive religious text by being accorded legitimacy in law courts by the
-> legal system. It is a text accepted for taking oaths._
+> _Towards the end of the first millennium, about eleven centuries before our
+> time, Adi Shankara prepared a massive commentary on the Gita, the Gita Bhashya
+> . Since then, during the last thousand years, Krishna as a deity rose in
+> eminence among the medieval sects. This was reflected in iconography, theatre,
+> dance, painting, music, and literature. The Vaishnava Acharyas, Ramanuja and
+> Madhava, gave the Bhagavad Gita centrality in their philosophical expositions.
+> Poets like Jayadeva composed the Gita Govinda with lyrics of haunting charm on
+> the life of Krishna. Religious rituals related to Krishna emerged and were
+> consolidated as large mass events. Apparently secular community festivals such
+> as the Raas dance during Navaratri and Holi placed Krishna at the heart of the
+> celebrations. A great poet like Mira composed immortal poems pining for
+> Krishna. The continued engagement with the Gita reached its high during the
+> twentieth century. Major social, cultural, and spiritual leaders alluded to
+> it, wrote about it, translated it, and offered compendious commentaries. These
+> include Swami Vivekananda, Lokmanya Tilak, Sri Aurobindo, Mahatma Gandhi,
+> Vinoba Bhave, and Sarvepalli Radhakrishnan. In modern India, the Gita has
+> acquired a special status as a definitive religious text by being accorded
+> legitimacy in law courts by the legal system. It is a text accepted for taking
+> oaths._
 >
-> _As we have seen, the Mahabharata emerged in ancient India as an oral epic. The
-> Gita, placed within it at some stage in its historical journey, has come to be
-> its representation and is accepted as the written text for people who formally
-> identify as being Hindu. Just as it is difficult to say if the Gita of Krishna
-> was originally a part of the Mahabharata, it is also difficult to say if the
-> great devotion to the Gita in the second millennium of Indian history was
-> because it was a part of the epic, or whether the undiminished popularity of the
-> Mahabharata till this day has been a result of the Gita being a part of it. And
-> yet, one can be certain beyond any doubt that the essence of the Gita —the
-> precept of detachment, and the perspective of an uninvolved witness, the
-> sthitpragnya or sakshi—was the precise sentiment that the Mahabharata epic
-> sought to evoke in the minds of its audiences._
+> _As we have seen, the Mahabharata emerged in ancient India as an oral epic.
+> The Gita, placed within it at some stage in its historical journey, has come
+> to be its representation and is accepted as the written text for people who
+> formally identify as being Hindu. Just as it is difficult to say if the Gita
+> of Krishna was originally a part of the Mahabharata, it is also difficult to
+> say if the great devotion to the Gita in the second millennium of Indian
+> history was because it was a part of the epic, or whether the undiminished
+> popularity of the Mahabharata till this day has been a result of the Gita
+> being a part of it. And yet, one can be certain beyond any doubt that the
+> essence of the Gita —the precept of detachment, and the perspective of an
+> uninvolved witness, the sthitpragnya or sakshi—was the precise sentiment that
+> the Mahabharata epic sought to evoke in the minds of its audiences._
 
 _Beautiful._
 
@@ -163,17 +171,17 @@ _Beautiful._
 > _The expanse and the grandeur of the action and the heroic qualities of the
 > major characters of the Mahabharata are so dazzling that, surprisingly, one
 > tends to overlook the fact that the one character who is present at the very
-> beginning as well as the very end is Yama. He is also present in the action, in
-> all its crucial active and contemplative moments. Yama, in popular imagination,
-> is associated with death. He is imagined to be the sovereign of the land to
-> which the dead depart. But that was not how Yama was positioned in ancient
-> myths. In the pre-Mahabharata mythology, Yama is described as Time as well as
-> Light. In the Rig Veda, dated by scholars prior to the era of the Mahabharata,
-> Yama is the son of Vivasvan and Saranya. Vivasvan is himself the Sun God and
-> Saranya is the Goddess of Dusk. At this juncture in the evolution of Indian
-> myths, Yama was not yet seen as the God of Death. He was an immortal who opted
-> to undergo death. In that sense, he is the first to be both a mortal and an
-> immortal being. He combines light and darkness in his person, given his
+> beginning as well as the very end is Yama. He is also present in the action,
+> in all its crucial active and contemplative moments. Yama, in popular
+> imagination, is associated with death. He is imagined to be the sovereign of
+> the land to which the dead depart. But that was not how Yama was positioned in
+> ancient myths. In the pre-Mahabharata mythology, Yama is described as Time as
+> well as Light. In the Rig Veda, dated by scholars prior to the era of the
+> Mahabharata, Yama is the son of Vivasvan and Saranya. Vivasvan is himself the
+> Sun God and Saranya is the Goddess of Dusk. At this juncture in the evolution
+> of Indian myths, Yama was not yet seen as the God of Death. He was an immortal
+> who opted to undergo death. In that sense, he is the first to be both a mortal
+> and an immortal being. He combines light and darkness in his person, given his
 > parentage._
 
 I didn't expect this, and it makes _so much sense._
@@ -194,8 +202,8 @@ I'll come back to this one day to ponder more about it.
 #### Page 110 @ 20 April 2025 10:38:07 PM
 
 > _The story of Shantanu meeting Ganga is told in the ‘critical edition’ and in
-> most Mahabharata traditions one way, but it can also be narrated differently, as
-> the following passage from a Rajasthani Mahabharata does:_
+> most Mahabharata traditions one way, but it can also be narrated differently,
+> as the following passage from a Rajasthani Mahabharata does:_
 
 I was not aware of a Rajasthani Mahabharata. This retelling was too long to put
 in highlights, but I recommend reading this book just for this.
@@ -204,9 +212,9 @@ in highlights, but I recommend reading this book just for this.
 
 > _Chapter 3, shloka 35: shreyan svadharmo vigunah, pardharmat svanushthitat;
 > svadharme nidhanam shreyah, paradharmo bhayavahah, which reads in translation,
-> ‘one’s own duty, though defective, is superior to another’s duty well-performed.
-> Death is better while engaged in one’s own duty; another’s duty is fraught with
-> fear_
+> ‘one’s own duty, though defective, is superior to another’s duty
+> well-performed. Death is better while engaged in one’s own duty; another’s
+> duty is fraught with fear_
 
 It is odd that I've been reading the Wheel of Time lately and one of my
 favourite lines from that series is _Death is lighter than a feather, duty
@@ -216,9 +224,10 @@ heavier than a mountain._
 
 > _the dharma of the ancient Brahminical Dharmasutras and the dharma articulated
 > in the Mahabharata do not have much in common except for the language in which
-> they were written. The fact that these were texts in Sanskrit and written around
-> roughly the same time need not be taken as justification for the claim that the
-> Mahabharata is a text about dharma as understood in the Dharmasutras._
+> they were written. The fact that these were texts in Sanskrit and written
+> around roughly the same time need not be taken as justification for the claim
+> that the Mahabharata is a text about dharma as understood in the
+> Dharmasutras._
 
 #### Page 128 @ 20 April 2025 11:20:09 PM
 
@@ -231,11 +240,11 @@ This is a book I've meant to read, but I haven't yet gotten around to.
 #### Page 129 @ 20 April 2025 11:21:19 PM
 
 > _Arjuna, who alone can lift and wield the Kindhura dhanushya, the divine bow
-> given by Shiva to king Drupad for use in the Draupadi-svayamvar, the contest of
-> heroes to win Draupadi’s hand in marriage, represents Shiva._
+> given by Shiva to king Drupad for use in the Draupadi-svayamvar, the contest
+> of heroes to win Draupadi’s hand in marriage, represents Shiva._
 
-I am a little surprised, but I'll have to verify in the Debroy translation. I
-do not think that the ability to lift the bow was ever in question, like in the
+I am a little surprised, but I'll have to verify in the Debroy translation. I do
+not think that the ability to lift the bow was ever in question, like in the
 Ramayana. Is Devy mixing the two events up?
 
 #### Page 133 @ 20 April 2025 11:23:22 PM
@@ -243,16 +252,17 @@ Ramayana. Is Devy mixing the two events up?
 > _Jinasena, a major Jain thinker and writer of the Rashtrakuta period, wrote a
 > text during the ninth century quite akin to Vyasa’s Mahabharata . This text,
 > known as Harivamsha, focuses primarily on the Krishna–Jarasandha story.
-> Generally considered as the Jain Mahabharata, it does not place the Pandavas at
-> the centre of the plot. It is concerned more with distinguishing the characters
-> into two categories, the baladevas, those who use violence, and the vasudevas,
-> those who desist from using violence. Drawing upon the Jain advocacy of
-> non-violence as a virtue, the concept of chakravarti in Jainism is an emperor
-> who rules through non-violence. Jain cosmology mentions several chakravartis who
-> keep appearing in the world in a cyclic rhythm: Bharata, son of Tirthankara
-> Rishabhanatha; Samara, ancestor of Bhagiratha as in the Puranas; Maghava
-> Sanatkumara; Tirthankara Shantinatha; Tirthankara Kunthunatha; Tirthankara
-> Aranatha; Subhaum; Padmanabha; Harishena; Jayasena; and Brahmadat._
+> Generally considered as the Jain Mahabharata, it does not place the Pandavas
+> at the centre of the plot. It is concerned more with distinguishing the
+> characters into two categories, the baladevas, those who use violence, and the
+> vasudevas, those who desist from using violence. Drawing upon the Jain
+> advocacy of non-violence as a virtue, the concept of chakravarti in Jainism is
+> an emperor who rules through non-violence. Jain cosmology mentions several
+> chakravartis who keep appearing in the world in a cyclic rhythm: Bharata, son
+> of Tirthankara Rishabhanatha; Samara, ancestor of Bhagiratha as in the
+> Puranas; Maghava Sanatkumara; Tirthankara Shantinatha; Tirthankara
+> Kunthunatha; Tirthankara Aranatha; Subhaum; Padmanabha; Harishena; Jayasena;
+> and Brahmadat._
 
 Wait, does this say what I think it says? The Harivamsha is a Jain work?
 
@@ -268,29 +278,30 @@ I didn't know Assamese was that old!
 
 > _The geographical area where the Buddha lived and travelled during his four
 > decades as a wandering philosopher-saint had several living languages in use.
-> The language of Magadha, the ancestor of the present-day Magahi, was only one of
-> them. There were also the ancestors of present-day Assamiya, Bangla, Khasi,
+> The language of Magadha, the ancestor of the present-day Magahi, was only one
+> of them. There were also the ancestors of present-day Assamiya, Bangla, Khasi,
 > Garo, Manipuri, and Bodo._
 
-It is sad that many languages need to fight to earn the tag of "classical languages".
+It is sad that many languages need to fight to earn the tag of "classical
+languages".
 
 #### Page 178 @ 20 April 2025 11:41:11 PM
 
 > _If one were to answer the question, ‘What is it all about?’, one can propose
 > with a fair degree of justice that, apart from it being about many, many other
-> important things, it is about a method of understanding the past as a composite
-> time, an aggregate of all aspects of Time, the kala. The Mahabharata gave India
-> this method and it is because of this that Indian people have rarely been able
-> to perceive their past, their histories, in terms other than the ones the
-> Mahabharata method has proposed. It is, therefore, also why India has not
-> stopped its lavish adoration of the epic. Despite its depiction of the varna
-> system in a manner that should offend any Indian believing in equality of all
-> humans, despite its foregrounding the idea of rebirth which any modern mind will
-> find untenable, despite its valorization of a social order that almost amounted
-> to a slavery-based society, the Mahabharata is yet not regarded by Indian people
-> as a work of the past because it brings to them the Mahabharata method of
-> perceiving the past._
+> important things, it is about a method of understanding the past as a
+> composite time, an aggregate of all aspects of Time, the kala. The Mahabharata
+> gave India this method and it is because of this that Indian people have
+> rarely been able to perceive their past, their histories, in terms other than
+> the ones the Mahabharata method has proposed. It is, therefore, also why India
+> has not stopped its lavish adoration of the epic. Despite its depiction of the
+> varna system in a manner that should offend any Indian believing in equality
+> of all humans, despite its foregrounding the idea of rebirth which any modern
+> mind will find untenable, despite its valorization of a social order that
+> almost amounted to a slavery-based society, the Mahabharata is yet not
+> regarded by Indian people as a work of the past because it brings to them the
+> Mahabharata method of perceiving the past._
 
-I remembered my letter to Bibek Debroy with this. The Mahabharata is all about Dharma,
-but not any one singular dharma. One man's dharma could be another man's adharma. But I
-like this particular way of putting it across as well.
+I remembered my letter to Bibek Debroy with this. The Mahabharata is all about
+Dharma, but not any one singular dharma. One man's dharma could be another man's
+adharma. But I like this particular way of putting it across as well.

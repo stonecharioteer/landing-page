@@ -1,10 +1,22 @@
 ---
-title: 'How do I read of thee, O Rama?'
+title: "How do I read of thee, O Rama?"
 date: 2020-01-01T00:00:00Z
-description: "A powerful poem questioning how to read the Ramayana when Rama's name has been weaponized for violence and hatred - exploring the tension between sacred stories and their political misuse."
+description:
+  "A powerful poem questioning how to read the Ramayana when Rama's name has
+  been weaponized for violence and hatred - exploring the tension between sacred
+  stories and their political misuse."
 tags:
-  ['poems', 'writing', 'ramayana', 'india', 'politics', 'religion', 'violence', 'social-commentary']
-categories: ['Poetry', 'Creative']
+  [
+    "poems",
+    "writing",
+    "ramayana",
+    "india",
+    "politics",
+    "religion",
+    "violence",
+    "social-commentary",
+  ]
+categories: ["Poetry", "Creative"]
 draft: true
 ---
 
@@ -33,6 +45,5 @@ _Because they don't._
 _They don't know all your stories,_  
 _Or your names, from Raghava to Phra Lam._
 
-{{< note >}}
-This is something I wrote on the spur of the moment after reading Bhisham Sahni's Tamas, a book on communal hatred.
-{{< /note >}}
+{{< note >}} This is something I wrote on the spur of the moment after reading
+Bhisham Sahni's Tamas, a book on communal hatred. {{< /note >}}

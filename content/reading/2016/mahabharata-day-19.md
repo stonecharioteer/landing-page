@@ -1,35 +1,45 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 19'
+title: "Reading the Mahabharata by the Tungabhadra - Day 19"
 date: 2016-12-28T00:00:00Z
-description: "Day 19 of reading the Mahabharata - the end approaches. Bhishma's final teachings, the fall of the Yadavas, Krishna's death, and the Pandavas' final journey north."
+description:
+  "Day 19 of reading the Mahabharata - the end approaches. Bhishma's final
+  teachings, the fall of the Yadavas, Krishna's death, and the Pandavas' final
+  journey north."
 tags:
   [
-    'mahabharata',
-    'bibek-debroy',
-    'reading',
-    'books',
-    'hampi',
-    'bhishma',
-    'end',
-    'yadavas',
-    'krishna',
-    'pandavas',
-    'journey',
-    'death',
+    "mahabharata",
+    "bibek-debroy",
+    "reading",
+    "books",
+    "hampi",
+    "bhishma",
+    "end",
+    "yadavas",
+    "krishna",
+    "pandavas",
+    "journey",
+    "death",
   ]
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
 The End.
 
 ![Mahabharata Day 19](/images/posts/india/mahabharata-day-19.jpg)
 
-The 1008 names of Shiva, the 1000 names of Vishnu, the Anu Gita and the Purusha Suktam. Bhishma leaves Dharmaraja with this and other words of Dharma. And then, he leaves his body and Ganga mourns her son.
+The 1008 names of Shiva, the 1000 names of Vishnu, the Anu Gita and the Purusha
+Suktam. Bhishma leaves Dharmaraja with this and other words of Dharma. And then,
+he leaves his body and Ganga mourns her son.
 
-As the sun sets on my sojourn here at Hampi, so does the sun set on the story of the Kurus. Dhritarashtra leaves for the forest, losing his life to a fire. Thirty six years after the war, the Yadavas fall, and Krishna too dies. Maddened at the loss of the Best of the Vrishnis, the Pandavas head north. One by one, Panchali and Yudhishthira's brothers fall.
+As the sun sets on my sojourn here at Hampi, so does the sun set on the story of
+the Kurus. Dhritarashtra leaves for the forest, losing his life to a fire.
+Thirty six years after the war, the Yadavas fall, and Krishna too dies. Maddened
+at the loss of the Best of the Vrishnis, the Pandavas head north. One by one,
+Panchali and Yudhishthira's brothers fall.
 
-Beseeching Indra to let him take the Dog with him, Dharmaraja reaches heaven, only to find himself tested once again.
+Beseeching Indra to let him take the Dog with him, Dharmaraja reaches heaven,
+only to find himself tested once again.
 
 ## Other Posts in the Series
 

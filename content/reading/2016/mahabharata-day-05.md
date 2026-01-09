@@ -1,34 +1,46 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 5'
+title: "Reading the Mahabharata by the Tungabhadra - Day 5"
 date: 2016-12-05T00:00:00Z
-description: "Day 5 of reading the Mahabharata - reflecting on dharma versus organized religion, reading of the Pandavas' exile and their plans for revenge, the scope and expanse of this epic."
+description:
+  "Day 5 of reading the Mahabharata - reflecting on dharma versus organized
+  religion, reading of the Pandavas' exile and their plans for revenge, the
+  scope and expanse of this epic."
 tags:
   [
-    'mahabharata',
-    'bibek-debroy',
-    'reading',
-    'books',
-    'hampi',
-    'dharma',
-    'religion',
-    'pandavas',
-    'exile',
-    'revenge',
-    'krishna',
+    "mahabharata",
+    "bibek-debroy",
+    "reading",
+    "books",
+    "hampi",
+    "dharma",
+    "religion",
+    "pandavas",
+    "exile",
+    "revenge",
+    "krishna",
   ]
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
-I do not believe in religion, I despise the organized rituals that exist today. That is not Sanathana Dharma. Dharma is subtle, it is imbued into the blood of people such as Prahalada and Bali. It runs through the veins of Markandeya, and it is in the pillars of the sabha Maya built for Dharmaraja.
+I do not believe in religion, I despise the organized rituals that exist today.
+That is not Sanathana Dharma. Dharma is subtle, it is imbued into the blood of
+people such as Prahalada and Bali. It runs through the veins of Markandeya, and
+it is in the pillars of the sabha Maya built for Dharmaraja.
 
 ![Mahabharata Day 5](/images/posts/india/mahabharata-day-05.jpg)
 
-The Mahabharata's scope and expanse is mindblowing. What words can I use to explain how the powerful Bhima had to stay his hand angry at Duhshasana? I am not bard enough to explain the rage of the otherwise calm and reserved Sahadeva.
+The Mahabharata's scope and expanse is mindblowing. What words can I use to
+explain how the powerful Bhima had to stay his hand angry at Duhshasana? I am
+not bard enough to explain the rage of the otherwise calm and reserved Sahadeva.
 
-In the woods, exiled for thirteen years, the sons of Pandu wait and plan their attack. It is Dharma, so says Vaasudeva, to wait for revenge. And revenge itself is not a sin, says Krishna Droupadi, citing the words of Prahalada, beloved of Hari.
+In the woods, exiled for thirteen years, the sons of Pandu wait and plan their
+attack. It is Dharma, so says Vaasudeva, to wait for revenge. And revenge itself
+is not a sin, says Krishna Droupadi, citing the words of Prahalada, beloved of
+Hari.
 
-Today, I went to read the Mahabharata by the Tungabhadra, and I did. I went to the place where Hari and Hara smote the prideful Guha.
+Today, I went to read the Mahabharata by the Tungabhadra, and I did. I went to
+the place where Hari and Hara smote the prideful Guha.
 
 ## Other Posts in the Series
 

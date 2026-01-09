@@ -1,32 +1,39 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 11'
+title: "Reading the Mahabharata by the Tungabhadra - Day 11"
 date: 2016-12-17T00:00:00Z
-description: "Day 11 of reading the Mahabharata - lamenting Duryodhana's choices, questioning why he refused peace offers from Yudhishthira, Krishna, and even Bhima."
+description:
+  "Day 11 of reading the Mahabharata - lamenting Duryodhana's choices,
+  questioning why he refused peace offers from Yudhishthira, Krishna, and even
+  Bhima."
 tags:
   [
-    'mahabharata',
-    'bibek-debroy',
-    'reading',
-    'books',
-    'hampi',
-    'duryodhana',
-    'suyodhana',
-    'krishna',
-    'peace',
-    'war',
-    'karna',
+    "mahabharata",
+    "bibek-debroy",
+    "reading",
+    "books",
+    "hampi",
+    "duryodhana",
+    "suyodhana",
+    "krishna",
+    "peace",
+    "war",
+    "karna",
   ]
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
 Oh Suyodhana! Oh, Suyodhana!
 
 ![Mahabharata Day 11](/images/posts/india/mahabharata-day-11.jpg)
 
-Why won't you listen to them? When Sanjaya gave you the message sent by DharmaRaja, why did you mock him? When Krishna Vasudeva himself descended with mighty Rishis, why did you ridicule his offer of peace? When even the mighty Bhimasena sent you word of reconciliation, why did you laugh at him?
+Why won't you listen to them? When Sanjaya gave you the message sent by
+DharmaRaja, why did you mock him? When Krishna Vasudeva himself descended with
+mighty Rishis, why did you ridicule his offer of peace? When even the mighty
+Bhimasena sent you word of reconciliation, why did you laugh at him?
 
-Oh Duryodhana! Did you think that Karna, stripped of his Kavacha and Kundala, could stand up against the likes of Dhananjeya?
+Oh Duryodhana! Did you think that Karna, stripped of his Kavacha and Kundala,
+could stand up against the likes of Dhananjeya?
 
 ## Other Posts in the Series
 

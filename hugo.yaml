@@ -1,15 +1,15 @@
-baseURL: 'https://www.stonecharioteer.com/'
-languageCode: 'en-us'
-title: 'Stonecharioteer'
-theme: 'PaperMod'
+baseURL: "https://www.stonecharioteer.com/"
+languageCode: "en-us"
+title: "Stonecharioteer"
+theme: "PaperMod"
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
 ignoreLogs:
-  - 'warning-partial-superfluous-prefix'
-  - 'warning-goldmark-raw-html'
+  - "warning-partial-superfluous-prefix"
+  - "warning-goldmark-raw-html"
 markup:
   goldmark:
     renderer:
@@ -21,29 +21,29 @@ params:
   ShowWordCount: true
   profileMode:
     enabled: true
-    title: 'Vinay Keerthi (stonecharioteer)' # optional default will be site title
-    subtitle: 'A life of reading, programming, writing and pet-parenting'
-    imageUrl: '/logo.jpeg' # optional
-    imageTitle: 'Stonecharioteer Logo' # optional
+    title: "Vinay Keerthi (stonecharioteer)" # optional default will be site title
+    subtitle: "A life of reading, programming, writing and pet-parenting"
+    imageUrl: "/logo.jpeg" # optional
+    imageTitle: "Stonecharioteer Logo" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
     buttons:
       - name: Resume
-        url: 'https://github.com/stonecharioteer/resume/releases'
+        url: "https://github.com/stonecharioteer/resume/releases"
       - name: Tech Blog
-        url: 'https://tech.stonecharioteer.com'
+        url: "https://tech.stonecharioteer.com"
       - name: Internet RFCs
-        url: 'https://rfc.stonecharioteer.com'
+        url: "https://rfc.stonecharioteer.com"
       - name: Archive
-        url: 'https://old.stonecharioteer.com/'
-  mainSections: ['writing', 'reading']
+        url: "https://old.stonecharioteer.com/"
+  mainSections: ["writing", "reading"]
 menus:
   main:
     - name: Writing
       pageRef: /writing
       weight: 10
     - name: Blog
-      url: 'https://tech.stonecharioteer.com'
+      url: "https://tech.stonecharioteer.com"
       weight: 15
     - name: Reading
       pageRef: /reading

@@ -1,33 +1,46 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 6'
+title: "Reading the Mahabharata by the Tungabhadra - Day 6"
 date: 2016-12-06T00:00:00Z
-description: "Day 6 of reading the Mahabharata - wondering if Krishnadevaraya walked these paths, reading of Damayanti's lament, Bhima's scolding of Yudhishtira, and Arjuna's battle with Shiva."
+description:
+  "Day 6 of reading the Mahabharata - wondering if Krishnadevaraya walked these
+  paths, reading of Damayanti's lament, Bhima's scolding of Yudhishtira, and
+  Arjuna's battle with Shiva."
 tags:
   [
-    'mahabharata',
-    'bibek-debroy',
-    'reading',
-    'books',
-    'hampi',
-    'krishnadevaraya',
-    'damayanti',
-    'nala',
-    'bhima',
-    'yudhishtira',
-    'arjuna',
-    'shiva',
+    "mahabharata",
+    "bibek-debroy",
+    "reading",
+    "books",
+    "hampi",
+    "krishnadevaraya",
+    "damayanti",
+    "nala",
+    "bhima",
+    "yudhishtira",
+    "arjuna",
+    "shiva",
   ]
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
-Wherever I sit down in Hampi, I can't help but ask myself if once, a long time ago, Krishnadevaraya walked past this very spot. I wonder if I have walked along paths he liked to walk through, I wonder if he could appreciate the poetry of sitting under a tree to read the Mahabharata.
+Wherever I sit down in Hampi, I can't help but ask myself if once, a long time
+ago, Krishnadevaraya walked past this very spot. I wonder if I have walked along
+paths he liked to walk through, I wonder if he could appreciate the poetry of
+sitting under a tree to read the Mahabharata.
 
 ![Mahabharata Day 6](/images/posts/india/mahabharata-day-06.jpg)
 
-The Mahabharata is daunting in scope. I sat under this tree and read of the lament of Damayanti as her husband Nala forsook her in the woods. I read how Bhima scolded Yudhishtira for being weak willed at the dice game. And I cheered as Arjuna fought the Trymbaka Karpadin himself, the Great Shiva, to prove his worth.
+The Mahabharata is daunting in scope. I sat under this tree and read of the
+lament of Damayanti as her husband Nala forsook her in the woods. I read how
+Bhima scolded Yudhishtira for being weak willed at the dice game. And I cheered
+as Arjuna fought the Trymbaka Karpadin himself, the Great Shiva, to prove his
+worth.
 
-I wonder if Krishnadevaraya read these same scenes somewhere in Hampi. Today I went to read the Mahabharata by the Tungabhadra, and I did. My only neighbours were birds hungry for the snacks my aunt packed for me, and perhaps the ghost of Krishnadevaraya.
+I wonder if Krishnadevaraya read these same scenes somewhere in Hampi. Today I
+went to read the Mahabharata by the Tungabhadra, and I did. My only neighbours
+were birds hungry for the snacks my aunt packed for me, and perhaps the ghost of
+Krishnadevaraya.
 
 ## Other Posts in the Series
 

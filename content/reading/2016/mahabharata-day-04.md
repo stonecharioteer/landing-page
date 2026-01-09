@@ -1,35 +1,50 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 4'
+title: "Reading the Mahabharata by the Tungabhadra - Day 4"
 date: 2016-12-04T00:00:00Z
-description: "Day 4 of reading the Mahabharata - reflecting on dharma and adharma, questioning how the heroes knew right from wrong, reading of the dice game and Arjuna's exile in a ruined temple."
+description:
+  "Day 4 of reading the Mahabharata - reflecting on dharma and adharma,
+  questioning how the heroes knew right from wrong, reading of the dice game and
+  Arjuna's exile in a ruined temple."
 tags:
   [
-    'mahabharata',
-    'bibek-debroy',
-    'reading',
-    'books',
-    'hampi',
-    'dharma',
-    'adharma',
-    'dice-game',
-    'yudhishthira',
-    'arjuna',
+    "mahabharata",
+    "bibek-debroy",
+    "reading",
+    "books",
+    "hampi",
+    "dharma",
+    "adharma",
+    "dice-game",
+    "yudhishthira",
+    "arjuna",
   ]
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
-How we ruin ourselves. Mankind has always fallen flat on its face when faced with the questions of Dharma.
+How we ruin ourselves. Mankind has always fallen flat on its face when faced
+with the questions of Dharma.
 
 ![Mahabharata Day 4](/images/posts/india/mahabharata-day-04.jpg)
 
 Dharma isn't difficult to comprehend, adharma is just easier.
 
-Then, did the maharathas of the Mahabharata know Dharma? As I stand at the edge of the temple, I read out the names of the sons of Dhritarashtra to the wind, those sons of Kuru found adharma easier. I read of Arjuna's exile, and his interpretation of Dharma. I read of the son of Dharma himself, as he gambled away his wealth, his brothers and their wife, Krishna Panchali, to the wiles of the Prince of Gandhara, what then was his interpretation of Dharma?
+Then, did the maharathas of the Mahabharata know Dharma? As I stand at the edge
+of the temple, I read out the names of the sons of Dhritarashtra to the wind,
+those sons of Kuru found adharma easier. I read of Arjuna's exile, and his
+interpretation of Dharma. I read of the son of Dharma himself, as he gambled
+away his wealth, his brothers and their wife, Krishna Panchali, to the wiles of
+the Prince of Gandhara, what then was his interpretation of Dharma?
 
-The temples here have been ruined by adharma. A temple bearing signs that once kings worshipped the deity within is now empty, the deity hasn't heard a prayer in eons. For the first time in forever I prayed, asking him his name. He didn't answer.
+The temples here have been ruined by adharma. A temple bearing signs that once
+kings worshipped the deity within is now empty, the deity hasn't heard a prayer
+in eons. For the first time in forever I prayed, asking him his name. He didn't
+answer.
 
-How silent the winds are when we ask questions about Dharma. How silent are Indra's sentinels. Today, I went to read the Mahabharata by the Tungabhadra, and I did. My only neighbours were tired watchmen, lizards, curious squirrels and a waiting God who has stopped waiting for his prayers.
+How silent the winds are when we ask questions about Dharma. How silent are
+Indra's sentinels. Today, I went to read the Mahabharata by the Tungabhadra, and
+I did. My only neighbours were tired watchmen, lizards, curious squirrels and a
+waiting God who has stopped waiting for his prayers.
 
 ## Other Posts in the Series
 

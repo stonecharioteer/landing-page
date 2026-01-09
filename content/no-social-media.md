@@ -1,7 +1,7 @@
 ---
-title: 'Goodbye, Social Networks'
-date: '2023-01-29'
-type: 'page'
+title: "Goodbye, Social Networks"
+date: "2023-01-29"
+type: "page"
 description: "I'm not on social media anymore"
 ---
 
@@ -20,15 +20,15 @@ Then Reddit. While I consider Reddit to have been a great source of fun to me
 personally, once they purged the third-party apps, I could no longer use my app
 of choice, Joey. Joey allowed me to filter posts on Reddit so I wouldn’t see
 posts on topics I particularly didn’t want to see or cared about. I had keywords
-removing political posts from `/r/india`, removing cosplay posts from `/r/OnePiece`
-and removing cryptocurrency stuff from `/r/technology`. I had about a hundred or
-so filters, and my experience was pretty amazing. Now that it was gone, I didn’t
-fall back to the official Reddit app. I instead used the webpage, and defaulted
-to [old.reddit.com](https://old.reddit.com). But lately I decided I was spending
-too much time there as well. So I figured I’d just get rid of that as well. I
-deleted every alt account I had, and I also deleted my primary account, only
-after purging all the posts and comments entirely so as to remove any history of
-my usage.
+removing political posts from `/r/india`, removing cosplay posts from
+`/r/OnePiece` and removing cryptocurrency stuff from `/r/technology`. I had
+about a hundred or so filters, and my experience was pretty amazing. Now that it
+was gone, I didn’t fall back to the official Reddit app. I instead used the
+webpage, and defaulted to [old.reddit.com](https://old.reddit.com). But lately I
+decided I was spending too much time there as well. So I figured I’d just get
+rid of that as well. I deleted every alt account I had, and I also deleted my
+primary account, only after purging all the posts and comments entirely so as to
+remove any history of my usage.
 
 Finally, I realized Twitter had to go as well. I wasn’t using it much, besides
 to ping around and ask questions about the city or something in general into the

@@ -1,10 +1,13 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 13'
+title: "Reading the Mahabharata by the Tungabhadra - Day 13"
 date: 2016-12-19T00:00:00Z
-description: "Day 13 of reading the Mahabharata - continuing the reading journey at Hampi, immersed in the epic's profound narratives."
-tags: ['mahabharata', 'bibek-debroy', 'reading', 'books', 'hampi', 'tungabhadra']
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+description:
+  "Day 13 of reading the Mahabharata - continuing the reading journey at Hampi,
+  immersed in the epic's profound narratives."
+tags:
+  ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
 Today I went to read the Mahabharata by the Tungabhadra, and I did.

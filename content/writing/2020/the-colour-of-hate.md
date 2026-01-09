@@ -1,9 +1,12 @@
 ---
-title: 'The Color of Hate'
+title: "The Color of Hate"
 date: 2020-01-01T00:00:00Z
-description: 'A poem reflecting on hate, prejudice, and the different forms it takes - exploring how hate masks what we lack and the weight it places on our shoulders.'
-tags: ['poems', 'writing', 'politics', 'india', 'hate', 'prejudice', 'society']
-categories: ['Poetry', 'Creative']
+description:
+  "A poem reflecting on hate, prejudice, and the different forms it takes -
+  exploring how hate masks what we lack and the weight it places on our
+  shoulders."
+tags: ["poems", "writing", "politics", "india", "hate", "prejudice", "society"]
+categories: ["Poetry", "Creative"]
 draft: true
 ---
 
@@ -18,6 +21,5 @@ _The colour of hate changes, from violet to red,_
 _Perhaps to you it is green,_  
 _But for others saffron is your spleen._
 
-{{< note >}}
-If you wish to share this poem, please use [this image](/images/posts/writing/the-colour-of-hate.png).
-{{< /note >}}
+{{< note >}} If you wish to share this poem, please use
+[this image](/images/posts/writing/the-colour-of-hate.png). {{< /note >}}

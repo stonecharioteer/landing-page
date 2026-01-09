@@ -1,34 +1,44 @@
 ---
-title: 'Reading the Mahabharata by the Tungabhadra - Day 10'
+title: "Reading the Mahabharata by the Tungabhadra - Day 10"
 date: 2016-12-16T00:00:00Z
-description: "Day 10 of reading the Mahabharata - reading slowly on Matanga Hill where the sage cursed Vali, reflecting on Dhritarashtra's desire to avoid war and the famous saying about the epic's universality."
+description:
+  "Day 10 of reading the Mahabharata - reading slowly on Matanga Hill where the
+  sage cursed Vali, reflecting on Dhritarashtra's desire to avoid war and the
+  famous saying about the epic's universality."
 tags:
   [
-    'mahabharata',
-    'bibek-debroy',
-    'reading',
-    'books',
-    'hampi',
-    'matanga',
-    'vali',
-    'dhritarashtra',
-    'vidura',
-    'war',
-    'universality',
+    "mahabharata",
+    "bibek-debroy",
+    "reading",
+    "books",
+    "hampi",
+    "matanga",
+    "vali",
+    "dhritarashtra",
+    "vidura",
+    "war",
+    "universality",
   ]
-categories: ['Reading', 'Mahabharata']
-series: 'mahabharata-reading'
+categories: ["Reading", "Mahabharata"]
+series: "mahabharata-reading"
 ---
 
-I am not reading these books at my usual speed. I could take the shorter way, read at full speed from the comforts of my home, or I could do it this way.
+I am not reading these books at my usual speed. I could take the shorter way,
+read at full speed from the comforts of my home, or I could do it this way.
 
 ![Mahabharata Day 10](/images/posts/india/mahabharata-day-10.jpg)
 
-From the top of a hill where the rishi Matanga meditated for centuries, where he cursed the Vanara king Vali for his vile sin, I read Dhritarashtra's words as he beseeched Vidura for guidance. He wanted to avoid the war at all costs, but he didn't know how much Dharmaraja himself wanted to avoid war.
+From the top of a hill where the rishi Matanga meditated for centuries, where he
+cursed the Vanara king Vali for his vile sin, I read Dhritarashtra's words as he
+beseeched Vidura for guidance. He wanted to avoid the war at all costs, but he
+didn't know how much Dharmaraja himself wanted to avoid war.
 
-There's a saying in the Mahabharata. That which is here may be found else where, but that which is not here is no where else.
+There's a saying in the Mahabharata. That which is here may be found else where,
+but that which is not here is no where else.
 
-Today, I went to read the Mahabharata by the Tungabhadra, and I did. I sat under the hot sun of the Kishkinda region, looked down at the Achyutaraya Temple, and reminisced about Krishnadevaraya and his time.
+Today, I went to read the Mahabharata by the Tungabhadra, and I did. I sat under
+the hot sun of the Kishkinda region, looked down at the Achyutaraya Temple, and
+reminisced about Krishnadevaraya and his time.
 
 ## Other Posts in the Series
 

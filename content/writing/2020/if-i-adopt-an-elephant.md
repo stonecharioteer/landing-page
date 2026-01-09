@@ -1,9 +1,22 @@
 ---
-title: 'If I adopt an elephant...'
+title: "If I adopt an elephant..."
 date: 2020-01-01T00:00:00Z
-description: 'A heartfelt poem about adopting an elephant named Puttu and making him part of the family - exploring themes of love, care, and the bonds between humans and animals.'
-tags: ['poem', 'writing', 'elephant', 'pets', 'animals', 'animal-lovers', 'love', 'family']
-categories: ['Poetry', 'Creative']
+description:
+  "A heartfelt poem about adopting an elephant named Puttu and making him part
+  of the family - exploring themes of love, care, and the bonds between humans
+  and animals."
+tags:
+  [
+    "poem",
+    "writing",
+    "elephant",
+    "pets",
+    "animals",
+    "animal-lovers",
+    "love",
+    "family",
+  ]
+categories: ["Poetry", "Creative"]
 ---
 
 _If I adopt an elephant,_  
@@ -92,6 +105,6 @@ _he will name one of his children after_
 _me, and one of my grandchildren can be_  
 _named after him._
 
-{{< note >}}
-This is an updated version of a bit I'd once written and posted on Instagram. I wrote this before I had pets of my own, and I wanted them to be a part of it, hence the edit.
-{{< /note >}}
+{{< note >}} This is an updated version of a bit I'd once written and posted on
+Instagram. I wrote this before I had pets of my own, and I wanted them to be a
+part of it, hence the edit. {{< /note >}}

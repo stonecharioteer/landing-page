@@ -9,9 +9,9 @@ cover:
   alt: Vibhi the cat
 ---
 
-5 years ago, on Jan 9 2021, I adopted a cat. On Jan 9, 2021. I always wanted a
-cat, an _orange_ cat. I didn't like the so called standard issue cats. My friend
-gave me this fool, who we used to call "kitty" until he got home.
+5 years ago, on Jan 9 2021, I adopted a cat. I always wanted a cat, an _orange_
+cat. I didn't like the so called standard issue cats. My friend gave me this
+fool, who we used to call "kitty" until he got home.
 
 My friend's cat was named Yudishtira. My mom took that as inspiration and named
 kitty Vibhishana. We mostly call him Vibhi or Vibhu.
@@ -45,7 +45,7 @@ Whenever I wonder about my job and whether I should take a lower paying one, I
 think of him, he is the most street cat you will see. He has consumed
 cockroaches, lizards and I'm certain during his time outside, he's tossed with
 rats, but he likes good cat food. He's not very picky, and he will make do with
-chepaer variants if I can't afford the expensive stuff. But I don't want him to
+cheaper variants if I can't afford the expensive stuff. But I don't want him to
 eat unhealthy.
 
 He has bad teeth, I get him dental scaling once every 18 months.
@@ -55,14 +55,14 @@ Ganga or his elder sibling, my dog, Subbi. It's a joy to watch him smack Subbi
 like she's his size.
 
 I lost two stray cats I was feeding before I got Vibhi. They were two gingers
-named Honey and Ginger. Their mother, I'd took to calling Lankini. She was a
+named Honey and Ginger. Their mother, I'd taken to calling Lankini. She was a
 tortie. All of them died because no one adopted them. I swore to adopt the next
 cat I found in need, and that was this standard issue monster.
 
-He is my most beloved, it's odd saying that you have a favourite pet, especially
-when you're in a cafe typing this with your adorable dog trying to seduce
-waiters so they give her some more chicken, but it's true. Vibhi came into my
-life when I needed him, and I would sacrifice anything for him.
+He is my most beloved, it's odd saying that I have a favourite pet, especially
+when I'm in a cafe typing this with my adorable dog trying to seduce waiters so
+they give her some more chicken, but it's true. Vibhi came into my life when I
+needed him, and I would sacrifice anything for him.
 
 {{< gallery dir="/images/vibhi/" />}}
 

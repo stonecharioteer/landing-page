@@ -1,14 +1,15 @@
-{{- $title := .Get "title" | default "Quote" -}} {{- $footer := .Get "footer" -}} {{- $blockquote :=
-.Get "blockquote" | default "false" -}}
+{{- $title := .Get "title" | default "Quote" -}}
+{{- $footer := .Get "footer" -}}
+{{- $blockquote := .Get "blockquote" | default "false" -}}
 <div class="admonition quote">
-  <div class="admonition-title">
-    <span class="admonition-icon">💬</span>
-    <span class="admonition-text">{{ $title }}</span>
-  </div>
+  <div class="admonition-title">{{ $title }}</div>
   <div class="admonition-content">
     {{- if eq $blockquote "true" }}
     <blockquote>{{ .Inner | markdownify }}</blockquote>
-    {{- else }} {{ .Inner | markdownify }} {{- end }} {{- if $footer }}
+    {{- else }}
+    {{ .Inner | markdownify }}
+    {{- end }}
+    {{- if $footer }}
     <div class="admonition-quote-footer">— {{ $footer }}</div>
     {{- end }}
   </div>

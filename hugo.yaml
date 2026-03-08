@@ -36,12 +36,15 @@ params:
         url: "https://rfc.stonecharioteer.com"
       - name: Archive
         url: "https://old.stonecharioteer.com/"
-  mainSections: ["writing", "reading"]
+  mainSections: ["writing", "reading", "cooking"]
 menus:
   main:
     - name: Writing
       pageRef: /writing
       weight: 10
+    - name: Cooking
+      pageRef: /cooking
+      weight: 12
     - name: Blog
       url: "https://tech.stonecharioteer.com"
       weight: 15

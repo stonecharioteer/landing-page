@@ -143,6 +143,47 @@ new-reading TITLE:
     echo "✅ Post created! Edit it at: ${POST_PATH}"
     echo "💡 Run 'just serve --buildDrafts' to preview drafts"
 
+# Create a new cooking post (requires title as argument)
+new-cooking TITLE:
+    #!/usr/bin/env bash
+    set -euo pipefail
+    YEAR=$(date +%Y)
+    SLUG=$(echo "{{ TITLE }}" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/-/g' | sed 's/--*/-/g' | sed 's/^-\|-$//g')
+    POST_PATH="content/cooking/${YEAR}/${SLUG}.md"
+
+    echo "🍳 Creating new cooking post: {{ TITLE }}"
+    echo "📁 Path: ${POST_PATH}"
+
+    hugo new content "${POST_PATH}"
+
+    echo "✅ Post created! Edit it at: ${POST_PATH}"
+    echo "💡 Run 'just serve --buildDrafts' to preview drafts"
+
+# Convert an image (jpg/jpeg/png) to webp for cooking posts
+convert-cooking-image INPUT:
+    #!/usr/bin/env bash
+    set -euo pipefail
+
+    if ! command -v cwebp &> /dev/null; then
+        echo "❌ cwebp is not installed. Install it with:"
+        echo "   brew install webp"
+        exit 1
+    fi
+
+    INPUT="{{ INPUT }}"
+    BASENAME=$(basename "${INPUT}" | sed 's/\.[^.]*$//')
+    SLUG=$(echo "${BASENAME}" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/-/g' | sed 's/--*/-/g' | sed 's/^-\|-$//g')
+    OUTPUT="static/images/cooking/${SLUG}.webp"
+
+    mkdir -p static/images/cooking
+
+    echo "🖼️  Converting: ${INPUT}"
+    echo "📁 Output: ${OUTPUT}"
+
+    cwebp -q 80 -resize 1200 0 "${INPUT}" -o "${OUTPUT}"
+
+    echo "✅ Converted! Use in frontmatter as: images/cooking/${SLUG}.webp"
+
 # Update theme submodule to latest version
 update-theme:
     #!/usr/bin/env bash

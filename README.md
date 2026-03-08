@@ -26,6 +26,16 @@ For book reviews, reading thoughts, and literary content.
 hugo new reading/book-title.md
 ```
 
+### Cooking (`/cooking`)
+
+For documenting meals, recipes, and what you're eating.
+
+**How to add a cooking post:**
+
+```bash
+hugo new cooking/meal-title.md
+```
+
 ### Private/Unlisted Posts
 
 For content that should be accessible via direct URL but not listed publicly.
@@ -164,6 +174,7 @@ custom modifications for:
 content/
 ├── blog/                    # Personal blog posts
 ├── reading/                 # Book reviews and reading content
+├── cooking/                 # Meal logs and cooking notes
 ├── unlisted/               # Private posts (excluded from listings)
 ├── nope.md                 # Special pages
 └── no-social-media.md

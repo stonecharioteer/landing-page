@@ -34,8 +34,6 @@ params:
         url: "https://git.stonecharioteer.com"
       - name: Tech Blog
         url: "https://tech.stonecharioteer.com"
-      - name: Internet RFCs
-        url: "https://rfc.stonecharioteer.com"
       - name: Rust Koans
         url: "https://rust-koans.stonecharioteer.com"
       - name: Merrilin

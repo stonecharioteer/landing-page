@@ -30,12 +30,16 @@ params:
     buttons:
       - name: Resume
         url: "https://github.com/stonecharioteer/resume/releases"
+      - name: GitHub Timeline
+        url: "https://git.stonecharioteer.com"
       - name: Tech Blog
         url: "https://tech.stonecharioteer.com"
       - name: Internet RFCs
         url: "https://rfc.stonecharioteer.com"
-      - name: Archive
-        url: "https://old.stonecharioteer.com/"
+      - name: Rust Koans
+        url: "https://rust-koans.stonecharioteer.com"
+      - name: Merrilin
+        url: "https://merrilin.ai"
   mainSections: ["writing", "reading", "cooking"]
 menus:
   main:

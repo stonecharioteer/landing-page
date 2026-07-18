@@ -5,19 +5,7 @@ description:
   "Day 14 of reading the Mahabharata - reflecting on the tragic tales of Bhishma
   and Abhimanyu, questioning the choices that led to their fates and the cruel
   nature of duty and honor."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "bhishma",
-    "abhimanyu",
-    "tragedy",
-    "karna",
-    "dharma",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

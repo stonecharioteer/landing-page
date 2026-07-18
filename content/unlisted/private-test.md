@@ -6,7 +6,7 @@ description:
   accessible via direct URL"
 private: true
 hiddenInHomeList: true
-tags: ["private", "test"]
+tags: ["test"]
 ---
 
 This is a private test post that should not appear in public listings but should

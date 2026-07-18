@@ -5,19 +5,7 @@ description:
   "Day 4 of reading the Mahabharata - reflecting on dharma and adharma,
   questioning how the heroes knew right from wrong, reading of the dice game and
   Arjuna's exile in a ruined temple."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "dharma",
-    "adharma",
-    "dice-game",
-    "yudhishthira",
-    "arjuna",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

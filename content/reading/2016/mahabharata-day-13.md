@@ -4,8 +4,7 @@ date: 2016-12-19T00:00:00Z
 description:
   "Day 13 of reading the Mahabharata - continuing the reading journey at Hampi,
   immersed in the epic's profound narratives."
-tags:
-  ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

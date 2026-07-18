@@ -5,10 +5,7 @@ title: "Robert Jordan - The Shadow Rising"
 description:
   "The fourth book in the Wheel of Time series brings major character
   developments and world-building as the protagonists face new challenges"
-tags:
-  - "reading"
-  - "wheel-of-time"
-  - "fantasy"
+tags: ["fantasy"]
 cover:
   image: "/images/books/wheel_of_time_04.jpeg"
   alt: "Wheel of Time Book 4 - The Shadow Rising"

@@ -27,38 +27,32 @@ params:
     imageTitle: "Stonecharioteer Logo" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size
-    buttons:
-      - name: Resume
-        url: "https://github.com/stonecharioteer/resume/releases"
-      - name: GitHub Timeline
-        url: "https://git.stonecharioteer.com"
-      - name: Tech Blog
-        url: "https://tech.stonecharioteer.com"
-      - name: Rust Koans
-        url: "https://rust-koans.stonecharioteer.com"
-      - name: Merrilin
-        url: "https://merrilin.ai"
   mainSections: ["writing", "reading", "cooking"]
 menus:
   main:
+    - name: Journal
+      identifier: journal
+      weight: 10
     - name: Writing
       pageRef: /writing
+      parent: journal
       weight: 10
     - name: Cooking
       pageRef: /cooking
-      weight: 12
-    - name: Blog
-      url: "https://tech.stonecharioteer.com"
-      weight: 15
+      parent: journal
+      weight: 20
     - name: Reading
       pageRef: /reading
-      weight: 20
+      parent: journal
+      weight: 30
     - name: Swimming
       pageRef: /pages/swimming-journey
-      weight: 25
-    - name: Nope
-      pageRef: /nope
-      weight: 30
-    - name: No Social Media
-      pageRef: /no-social-media
+      parent: journal
       weight: 40
+    - name: Tech Blog
+      url: "https://tech.stonecharioteer.com"
+      weight: 20
+    - name: Merrilin
+      url: "https://merrilin.ai"
+      pre: '<img class="menu-merrilin-icon" src="/images/merrilin/logo-nav.png" alt="" width="20" height="20" />'
+      weight: 30

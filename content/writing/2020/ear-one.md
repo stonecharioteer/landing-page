@@ -5,16 +5,7 @@ description:
   "One year anniversary of losing my hearing - reflecting on adaptation, family
   understanding, sleep challenges, accessibility, and moving forward with
   single-sided deafness."
-tags:
-  [
-    "hearing-loss",
-    "single-sided-deafness",
-    "health",
-    "life",
-    "anniversary",
-    "accessibility",
-    "family",
-  ]
+tags: ["hearing-loss"]
 categories: ["Life", "Health"]
 ---
 

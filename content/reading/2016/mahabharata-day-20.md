@@ -5,20 +5,7 @@ description:
   "Final day of the Mahabharata reading journey at Hampi - reflecting on
   overcoming fear, finding courage like Arjuna before the Bhagavad Gita, and the
   completion of a transformative 20-day reading pilgrimage."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "fear",
-    "courage",
-    "bhagavad-gita",
-    "arjuna",
-    "completion",
-    "journey",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

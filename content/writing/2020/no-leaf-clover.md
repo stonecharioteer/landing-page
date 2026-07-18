@@ -5,16 +5,7 @@ description:
   "Part 2 of my hearing loss journey - learning to adapt to single-sided
   deafness, getting hearing aids, and finding ways to move forward with one
   working ear."
-tags:
-  [
-    "hearing-loss",
-    "single-sided-deafness",
-    "health",
-    "life",
-    "inclusion",
-    "accessibility",
-    "hearing-aid",
-  ]
+tags: ["hearing-loss"]
 categories: ["Life", "Health"]
 ---
 

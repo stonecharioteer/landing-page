@@ -5,20 +5,7 @@ description:
   "Day 3 of reading the Mahabharata - the land belongs to the monkeys, wind
   howls like Vayu watching as I read of Bhima's battles, Panchali's wedding, and
   the burning of Khandiva forest."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "bhima",
-    "panchali",
-    "arjuna",
-    "subhadra",
-    "khandiva",
-    "vayu",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

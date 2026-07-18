@@ -5,21 +5,7 @@ description:
   "Day 6 of reading the Mahabharata - wondering if Krishnadevaraya walked these
   paths, reading of Damayanti's lament, Bhima's scolding of Yudhishtira, and
   Arjuna's battle with Shiva."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "krishnadevaraya",
-    "damayanti",
-    "nala",
-    "bhima",
-    "yudhishtira",
-    "arjuna",
-    "shiva",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

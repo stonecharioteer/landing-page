@@ -5,7 +5,7 @@
 default:
     @just --list
 
-# Initialize repository: check Hugo version, setup submodules
+# Initialize repository: check Hugo version and vendored theme
 init:
     #!/usr/bin/env bash
     set -euo pipefail
@@ -33,19 +33,14 @@ init:
         echo "✅ Hugo version is compatible"
     fi
 
-    # Initialize and update submodules
-    echo "🔄 Initializing git submodules..."
-    git submodule update --init --recursive
-
-    echo "📡 Updating submodules to latest commits..."
-    git submodule update --recursive --remote
-
-    # Check if PaperMod theme is properly loaded
+    # Check if PaperMod theme is vendored in-repo
     if [[ ! -f "themes/PaperMod/layouts/_default/single.html" ]]; then
-        echo "❌ PaperMod theme not properly loaded. Submodule issue detected."
+        echo "❌ PaperMod theme not found at themes/PaperMod."
+        echo "   Expected a vendored copy of the theme in this repository."
         exit 1
     fi
 
+    echo "✅ PaperMod theme is vendored at themes/PaperMod"
     echo "✅ Repository initialized successfully!"
     echo "💡 Run 'just serve' to start development server"
 
@@ -184,19 +179,37 @@ convert-cooking-image INPUT:
 
     echo "✅ Converted! Use in frontmatter as: images/cooking/${SLUG}.webp"
 
-# Update theme submodule to latest version
+# Update vendored PaperMod theme from upstream master
+# (latest tag is stale; master has Hugo 0.146+ layout system)
 update-theme:
     #!/usr/bin/env bash
     set -euo pipefail
-    echo "🔄 Updating PaperMod theme to latest version..."
+    echo "🔄 Updating vendored PaperMod theme from upstream master..."
 
-    cd themes/PaperMod
-    git fetch origin
-    git checkout $(git describe --tags $(git rev-list --tags --max-count=1))
-    cd ../..
+    TMP_DIR=$(mktemp -d)
+    trap 'rm -rf "${TMP_DIR}"' EXIT
 
-    echo "✅ Theme updated to latest stable version"
-    echo "💡 Test the site with 'just serve' before committing"
+    UPSTREAM="https://github.com/adityatelange/hugo-PaperMod.git"
+    REF="${PAPERMOD_REF:-master}"
+    COMMIT=$(git ls-remote "${UPSTREAM}" "refs/heads/${REF}" "refs/tags/${REF}" | awk 'NR==1 {print $1}')
+
+    if [[ -z "${COMMIT}" ]]; then
+        echo "❌ Could not resolve PaperMod ref: ${REF}"
+        exit 1
+    fi
+
+    echo "📦 Upstream ${REF} @ ${COMMIT}"
+    git clone --depth 1 --branch "${REF}" "${UPSTREAM}" "${TMP_DIR}/PaperMod"
+
+    # Preserve only theme source; drop upstream git/CI metadata
+    rm -rf themes/PaperMod
+    mkdir -p themes/PaperMod
+    rsync -a --exclude '.git' --exclude '.github' "${TMP_DIR}/PaperMod/" themes/PaperMod/
+    printf '%s\n' "${COMMIT}" > themes/PaperMod/.vendor-revision
+    printf '%s\n' "${REF}" > themes/PaperMod/.vendor-ref
+
+    echo "✅ Theme updated to ${REF} (${COMMIT:0:7})"
+    echo "💡 Review changes, test with 'just serve', then commit the vendored theme"
 
 # Show repository status and useful info
 status:
@@ -216,9 +229,17 @@ status:
     git status --porcelain || echo "   No changes"
     echo ""
 
-    # Submodule status
-    echo "📦 Submodule Status:"
-    git submodule status
+    # Vendored theme status
+    echo "📦 Theme Status:"
+    if [[ -f "themes/PaperMod/theme.toml" ]]; then
+        echo "   PaperMod vendored at themes/PaperMod"
+        if command -v git &> /dev/null; then
+            CHANGED=$(git status --porcelain themes/PaperMod | wc -l | tr -d ' ')
+            echo "   Uncommitted theme file changes: ${CHANGED}"
+        fi
+    else
+        echo "   ❌ themes/PaperMod missing"
+    fi
     echo ""
 
     # Recent commits

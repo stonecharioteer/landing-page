@@ -4,8 +4,7 @@ date: 2016-12-23T00:00:00Z
 description:
   "Day 16 of reading the Mahabharata - approaching the final phase of the epic
   reading journey at Hampi."
-tags:
-  ["mahabharata", "bibek-debroy", "reading", "books", "hampi", "tungabhadra"]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

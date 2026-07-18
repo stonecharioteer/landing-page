@@ -2,11 +2,7 @@
 date: "2025-12-07 14:23:45"
 title: "Adam Hochschild - King Leopold's ghost"
 description: "Highlights and thoughts from King Leopold's ghost"
-tags:
-  - "reading"
-  - "europe"
-  - "africa"
-  - "genocide"
+tags: ["history"]
 cover:
   image: "/images/books/king-leopolds-ghost.png"
   alt: "King Leopold's ghost"

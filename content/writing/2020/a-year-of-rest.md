@@ -4,18 +4,7 @@ date: 2020-12-04T00:00:00Z
 description:
   "Reflecting on a year of recovery from workaholism and hearing loss, finding
   gratitude, and planning a return to building projects and writing fiction."
-tags:
-  [
-    "hobbies",
-    "coding",
-    "hearing-loss",
-    "reflection",
-    "career",
-    "rest",
-    "recovery",
-    "projects",
-    "writing",
-  ]
+tags: ["career", "hearing-loss"]
 categories: ["Life", "Career"]
 ---
 

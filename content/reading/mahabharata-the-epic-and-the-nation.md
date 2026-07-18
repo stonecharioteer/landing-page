@@ -5,10 +5,7 @@ title: "GN Devy - Mahabharata: The Epic and the Nation"
 description:
   "A thoughtful exploration of the Mahabharata as both epic literature and
   commentary on nation-building in ancient India"
-tags:
-  - "reading"
-  - "mythology"
-  - "india"
+tags: ["mahabharata"]
 cover:
   image: "/images/books/mahabharata-the-epic-and-the-nation.jpg"
   alt: "Mahabharata: The Epic and the Nation"

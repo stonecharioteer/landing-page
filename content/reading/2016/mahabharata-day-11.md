@@ -5,20 +5,7 @@ description:
   "Day 11 of reading the Mahabharata - lamenting Duryodhana's choices,
   questioning why he refused peace offers from Yudhishthira, Krishna, and even
   Bhima."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "duryodhana",
-    "suyodhana",
-    "krishna",
-    "peace",
-    "war",
-    "karna",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

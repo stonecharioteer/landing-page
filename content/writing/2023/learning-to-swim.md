@@ -5,19 +5,7 @@ description:
   "A deeply personal journey of overcoming submechanophobia, childhood trauma,
   and learning to swim at age 35. From terror of water tanks to swimming 700m in
   sessions."
-tags:
-  [
-    "swimming",
-    "life",
-    "health",
-    "fear",
-    "dune",
-    "litany-against-fear",
-    "zee-swim-academy",
-    "submechanophobia",
-    "personal",
-    "growth",
-  ]
+tags: ["swimming"]
 categories: ["Life", "Personal"]
 ---
 

@@ -119,11 +119,9 @@ This site supports rich admonitions (callout boxes) for enhanced content:
 
 - Hugo v0.146.7 (extended version required)
 
-**Initialize theme submodule (after cloning):**
+**Theme setup:**
 
-```bash
-git submodule update --init --recursive
-```
+PaperMod is vendored in-repo under `themes/PaperMod` — no submodule init needed after cloning.
 
 **Install Hugo Extended:**
 
@@ -160,8 +158,8 @@ Generated site will be in `./public/`.
 
 ## Theme
 
-Uses [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) with
-custom modifications for:
+Uses a vendored copy of the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod)
+(`themes/PaperMod`) with custom modifications for:
 
 - Admonition system with full light/dark mode support
 - Private post filtering in listings
@@ -176,22 +174,19 @@ content/
 ├── reading/                 # Book reviews and reading content
 ├── cooking/                 # Meal logs and cooking notes
 ├── unlisted/               # Private posts (excluded from listings)
-├── nope.md                 # Special pages
 └── no-social-media.md
+themes/PaperMod/             # Vendored PaperMod theme
 layouts/
-├── _default/
-│   ├── list.html          # Custom list with private post filtering
-│   └── archives.html      # Enhanced archives layout
-├── partials/
-│   └── extend_head.html   # Custom head extensions
-└── shortcodes/            # Admonition shortcodes
-    ├── note.html
-    ├── info.html
-    ├── warning.html
-    ├── tip.html
-    ├── quote.html
-    ├── example.html
-    └── ai.html
+├── baseof.html              # Theme shell + homepage class
+├── list.html                # List pages with private filtering
+├── single.html              # Posts with lastmod + newsletter
+├── archives.html            # Archives with private filtering
+├── cooking/list.html        # Cooking filters/badges
+├── _partials/
+│   ├── extend_head.html     # Private robots + admonition sprites
+│   ├── footer.html          # Custom footer (no powered-by credit)
+│   └── newsletter.html      # Picoletter embed
+└── shortcodes/              # Admonition + gallery shortcodes
 assets/css/extended/
-└── custom.css            # Custom styles for admonitions
+└── custom.css               # Site styles (admonitions, cooking, tags)
 ```

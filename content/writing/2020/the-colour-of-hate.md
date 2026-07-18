@@ -5,7 +5,7 @@ description:
   "A poem reflecting on hate, prejudice, and the different forms it takes -
   exploring how hate masks what we lack and the weight it places on our
   shoulders."
-tags: ["poems", "writing", "politics", "india", "hate", "prejudice", "society"]
+tags: ["poem"]
 categories: ["Poetry", "Creative"]
 draft: true
 ---

@@ -6,7 +6,7 @@ author: "Vinay Keerthi"
 description:
   "A long-form letter to Bibek Debroy reflecting on reading his Valmiki Ramayana
   translation by the Tungabhadra river in May 2018."
-tags: ["ramayana", "hampi", "bibek debroy"]
+tags: ["ramayana", "hampi"]
 categories: ["Letters", "Reading", "Ramayana"]
 aliases: ["/letters/debroy/ramayana/"]
 cover:

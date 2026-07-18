@@ -5,21 +5,7 @@ description:
   "Day 17 of reading the Mahabharata - meditating on loss in empty temples,
   reading of Duryodhana's final battle with Bhima, Ashwatthama's vengeance, and
   Gandhari's curse."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "loss",
-    "duryodhana",
-    "bhima",
-    "ashwatthama",
-    "gandhari",
-    "curse",
-    "temples",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

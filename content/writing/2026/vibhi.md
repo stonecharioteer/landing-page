@@ -3,7 +3,7 @@ date: "2026-01-09T13:27:44+05:30"
 title: "A Cat Named Vibhishana"
 url: /vibhi
 description: "Celebrating 5 years with my beloved cat Vibhishana"
-tags: ["personal", "cats", "pets"]
+tags: ["pets"]
 cover:
   image: /images/vibhi/00-mugshot.jpg
   alt: Vibhi the cat

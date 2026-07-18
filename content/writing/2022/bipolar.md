@@ -5,16 +5,7 @@ description:
   "My journey to understanding and getting diagnosed with Bipolar Disorder and
   ADHD, finding treatment with Lamotrigine, and learning to manage my emotions
   and productivity."
-tags:
-  [
-    "bipolar",
-    "adhd",
-    "health",
-    "mental-health",
-    "therapy",
-    "lamotrigine",
-    "diagnosis",
-  ]
+tags: ["health"]
 categories: ["Life", "Health"]
 draft: true
 private: true

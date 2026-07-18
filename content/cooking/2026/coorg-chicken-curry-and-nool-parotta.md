@@ -2,7 +2,7 @@
 title: "Coorg Chicken Curry and Nool Parotta"
 date: 2026-03-08T19:10:53+05:30
 description: "A delectable Coorg chicken curry served with Nool Parotta."
-tags: ["coorg"]
+tags: ["cooking", "coorg"]
 cuisine: "Coorgi"
 course: "Main Course"
 vegetarian: false

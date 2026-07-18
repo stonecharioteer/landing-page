@@ -5,20 +5,7 @@ description:
   "Day 5 of reading the Mahabharata - reflecting on dharma versus organized
   religion, reading of the Pandavas' exile and their plans for revenge, the
   scope and expanse of this epic."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "dharma",
-    "religion",
-    "pandavas",
-    "exile",
-    "revenge",
-    "krishna",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

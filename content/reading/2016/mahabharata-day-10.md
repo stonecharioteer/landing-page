@@ -5,20 +5,7 @@ description:
   "Day 10 of reading the Mahabharata - reading slowly on Matanga Hill where the
   sage cursed Vali, reflecting on Dhritarashtra's desire to avoid war and the
   famous saying about the epic's universality."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "matanga",
-    "vali",
-    "dhritarashtra",
-    "vidura",
-    "war",
-    "universality",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

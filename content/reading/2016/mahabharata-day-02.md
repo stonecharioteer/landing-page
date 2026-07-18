@@ -5,18 +5,7 @@ description:
   "Day 2 of reading the Mahabharata at Hampi - experiencing the stories of
   Shakuntala and Dushyantha, Yayati and his sons, while a flute plays in the
   distance."
-tags:
-  [
-    "mahabharata",
-    "bibek-debroy",
-    "reading",
-    "books",
-    "hampi",
-    "indian-mythology",
-    "shakuntala",
-    "yayati",
-    "tungabhadra",
-  ]
+tags: ["mahabharata", "hampi"]
 categories: ["Reading", "Mahabharata"]
 series: "mahabharata-reading"
 ---

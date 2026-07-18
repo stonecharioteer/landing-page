@@ -5,17 +5,7 @@ description:
   "A powerful poem questioning how to read the Ramayana when Rama's name has
   been weaponized for violence and hatred - exploring the tension between sacred
   stories and their political misuse."
-tags:
-  [
-    "poems",
-    "writing",
-    "ramayana",
-    "india",
-    "politics",
-    "religion",
-    "violence",
-    "social-commentary",
-  ]
+tags: ["poem", "ramayana"]
 categories: ["Poetry", "Creative"]
 draft: true
 ---

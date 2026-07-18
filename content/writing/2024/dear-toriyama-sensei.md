@@ -4,8 +4,7 @@ date: 2024-03-19T00:00:00Z
 description:
   "A letter to Akira Toriyama, the creator of Dragon Ball and Dr. Slump, about
   what he means to someone who grew up in India"
-tags:
-  ["dragonball", "anime", "manga", "india", "videogames", "personal", "tribute"]
+tags: ["anime"]
 ---
 
 **Date: March 19, 2024**

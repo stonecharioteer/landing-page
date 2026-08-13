@@ -49,6 +49,9 @@ menus:
       pageRef: /pages/swimming-journey
       parent: journal
       weight: 40
+    - name: Search
+      pageRef: /search
+      weight: 15
     - name: Tech Blog
       url: "https://tech.stonecharioteer.com"
       weight: 20

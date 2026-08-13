@@ -1,0 +1,13 @@
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.private) (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+    {{- $date := "" -}}
+    {{- if not .Date.IsZero -}}
+        {{- $date = .Date.Format "January 2, 2006" -}}
+    {{- end -}}
+    {{- $summary := .Description | default (.Summary | plainify) | truncate 220 -}}
+    {{- $tags := .Params.tags | default slice -}}
+    {{- $index = $index | append (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" $summary "date" $date "tags" $tags) -}}
+    {{- end }}
+{{- end -}}
+{{- $index | jsonify -}}

@@ -52,13 +52,27 @@ build *ARGS:
     hugo {{ ARGS }}
     echo "✅ Build complete! Output in ./public/"
 
-# Serve the Hugo site for development (passes through all arguments)
+# Serve the Hugo site for development on the LAN with drafts enabled
 serve *ARGS:
     #!/usr/bin/env bash
     set -euo pipefail
+    lan_ip="${HUGO_LAN_IP:-}"
+    if [[ -z "${lan_ip}" ]]; then
+        lan_ip="$(ipconfig getifaddr en0 2>/dev/null || true)"
+    fi
+    if [[ -z "${lan_ip}" ]]; then
+        lan_ip="$(ipconfig getifaddr en1 2>/dev/null || true)"
+    fi
+    if [[ -z "${lan_ip}" ]]; then
+        lan_ip="$(hostname -I 2>/dev/null | awk '{print $1}' || true)"
+    fi
+    base_url="${HUGO_BASE_URL:-http://${lan_ip:-localhost}:1313}"
     echo "🚀 Starting Hugo development server..."
-    echo "💡 Common flags: --buildDrafts --ignoreCache --disableFastRender"
-    hugo serve {{ ARGS }}
+    echo "🌐 Bind: 0.0.0.0"
+    echo "📝 Drafts: enabled"
+    echo "🔗 URL: ${base_url}"
+    echo "💡 Extra args are passed through, e.g. just serve --ignoreCache --disableFastRender"
+    hugo serve --bind 0.0.0.0 --buildDrafts --baseURL "${base_url}" {{ ARGS }}
 
 # Clean build artifacts
 clean:

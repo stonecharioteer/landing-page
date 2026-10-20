@@ -2,6 +2,14 @@
 date: "2026-10-20T11:12:27+05:30"
 draft: false
 title: "Ramayanas"
+description: "Thoughts on a life spent reading the Ramayanas."
+tags: ["ramayana", "reading", "atheism"]
+cover:
+  image: "/images/books/ramayanas.webp"
+  alt:
+    "Holding The Rama Story: Origins and Growth by Camille Bulcke on a balcony."
+  caption:
+    "Holding The Rama Story: Origins and Growth by Camille Bulcke on a balcony."
 ---
 
 I walk into a bookstore and Ramayanas accost me.
@@ -17,6 +25,10 @@ taken away by Ravana and the Vanaras, especially Hanumantha, helped Rama get her
 back after a great battle.
 
 Ravana had amruth in his gut, and only Rama could defeat him.
+
+![Figures from the Ramayana carved into a stone pillar in Hampi.](/images/books/ramayanas-stone-carving.webp)
+
+_Figures from the Ramayana carved into a stone pillar in Hampi._
 
 That was _my_ Rama, the Rama that my grandfather left me with.
 
@@ -43,11 +55,24 @@ It was a ritual for them, I suppose. As is reading verses from the Ramayana to
 learn them by rote in my family. My cousins spend more time reading other texts,
 not for the stories, just for the "benefit".
 
+![The Ramayana anime playing on a cinema screen.](/images/books/ramayanas-anime-screening.webp)
+
+_The Ramayana anime playing on a cinema screen._
+
+I made sure to catch the anime when it was back in the cinema halls in 2024. I
+loved watching it but this time I could make out the irregularities in the way
+they pronounced the names in English. Sometimes the voice actors would say
+Ravana and sometimes Ravan.
+
 I'm sure there's something to be said about a non-vegetarian brahmin atheist
 being obsessed by the story of Rama.
 
 I didn't even enjoy Rajaji's Ramayana as a kid. It was boring. His Rama seemed
 boring. I wish I could have read Kamala Subramaniam growing up.
+
+![Holding a copy of Ramayana by C. Rajagopalachari.](/images/books/ramayanas-rajaji.webp)
+
+_Ramayana by C. Rajagopalachari._
 
 At this point in my life, I'm known in certain circles for being obsessed by the
 Ramayana. I am not sure what to tell you. At one point, I made a promise to my
@@ -55,6 +80,30 @@ _guru_. I told him I'd write again, and I told him that inside of me, the
 Ramakathas are bubbling up. They are restless. They accost me at bookstores. He
 asked met to wait. He said that the Ramakatha has a way of forcing us to write
 about them when the time is write.
+
+In 2024, I went to Cambodia to finally see Angkor Wat. I did not expect to be
+accosted by the Ramakatha there as well. And boy was I ever!
+
+I caught a small play, which I couldn't understand or pay much attention to, at
+a restaurant. They called it an Apsara dance, but I later discovered it was
+related to the myth of Hanuman and the fish.
+
+![Robam Hanuman and Sovann Maccha, traditional Cambodian dance.](/images/books/ramayanas-performance.webp)
+
+_Robam Hanuman and Sovann Maccha, traditional Cambodian dance._
+
+This symbolism was everywhere in Cambodia.
+
+![Sculpture of the same play at a hotel pool in Phnom Penh.](/images/books/ramayanas-statue.webp)
+
+_Sculpture of the same play at a hotel pool in Phnom Penh._
+
+Spotting a bottle of _Hanuman Beer_ makes me wonder what India would have been
+like if Indians didn't take offense at portraying Hanumantha like this.
+
+![A bottle of Hanuman Black beer with Hanuman illustrated on the label.](/images/books/ramayanas-hanuman-beer.webp)
+
+_A bottle of Hanuman Black beer._
 
 What am I supposed to say? That I've gotten a divine sign that I need to read
 all of them? If I believed in that, my life would have been much easier. It
@@ -88,10 +137,26 @@ could find. I'd read Ashok Banker's take as a teenager and enjoyed it, but I'd
 since given away my copies of that. I didn't really want modern takes on it, I
 was looking for different versions.
 
+![A worn copy of Lectures on the Ramayana.](/images/books/ramayanas-lectures.webp)
+
+_Lectures on the Ramayana by Rt. Honble. Srinivasa Sastry_
+
 Why though? I'm not sure. Today, I cannot walk into a bookshop without being
 accosted by a Ramayana I do not own. Three years ago, I had a shelf in an Ikea
 Billy. Today, it's an entire Ikea Billy. An entire book case full of Ramakathas
 or works on it.
+
+![Two shelves full of Ramayanas](/images/books/ramayanas-bookshelf-03.webp)
+
+_Two shelves full of Ramayanas._
+
+![The upper shelves of my bookcase, filled with Ramayanas and books about them.](/images/books/ramayanas-bookshelf-01.webp)
+
+_The upper shelves of my bookcase, filled with Ramayanas and books about them._
+
+![More Ramayanas and books about them on the lower shelves.](/images/books/ramayanas-bookshelf-02.webp)
+
+_More Ramayanas and books about them on the lower shelves._
 
 I cannot run from the Ramayana. I'm not sure why it calls me so. All I can do is
 listen, and speak the name while I go about my life. If it is a sin that someone
